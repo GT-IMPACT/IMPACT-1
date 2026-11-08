@@ -1,0 +1,13 @@
+{
+	Australia:[
+		{hide:[[*],[]]};
+	];
+
+	miscutils:[
+		{hide:[[*],[]]};
+	];
+
+	ToxicEverglades:[
+		{hide:[[*],[]]};
+	]
+}

@@ -1,0 +1,2069 @@
+impact.0.name=ME I/O Port
+impact.0.desc=Allows for transferring information from one storage cell to another.%n%nConvenient for moving items from one cell to another.
+
+impact.1.name=Machine Controller
+impact.1.desc=Allows for turning on/off a multi-block or single-block machine using a redstone signal.
+
+impact.2.name=Electric Implosion Compressor
+impact.2.desc=An electric explosive compressor.%n%nDoes not require dynamite to operate.%n%nConsumes 1000 times more electricity per operation than the recipe.
+
+impact.3.name=Multi Chemical Reactor
+impact.3.desc=An improved chemical reactor.%n%nCan be used for parallel recipes.
+
+impact.4.name=Wafer
+impact.4.desc=A silicon wafer that helps improve microchips.
+
+impact.5.name=Adamantium Dust
+impact.5.desc=Adamantium Dust.
+
+impact.6.name=Nano Circuit (UIV)
+impact.6.desc=UIV-tier microchip.
+
+impact.7.name=Superconductor UHV Wire
+impact.7.desc=UHV-tier superconductor wire.
+
+impact.8.name=Crushed Infuscolium Ore
+impact.8.desc=Infuscolium can now be obtained from ore.
+
+impact.9.name=Item Amount Sign Creator
+impact.9.desc=Allows for creating a sign that shows the quantity of a specified item in a logistic network storage.%n%nTo do this, the sign creator must right-click on any pipe and specify the desired item in the slot.
+
+impact.10.name=Ledox Ingot
+impact.10.desc=Ledox ingot.
+
+impact.11.name=Engraved Mysterious Energy Crystal Chip
+impact.11.desc=Energy crystal chip.
+
+impact.12.name=MV Fluid Extractor
+impact.12.desc=The machine is used to melt metal ingots.
+
+impact.13.name=Plow
+impact.13.desc=A large shovel that digs in a 3x3x3 area.
+
+impact.14.name=OreDict ItemSink module
+impact.14.desc=Allows the system to move items with a specific OreDict into storage.
+
+impact.15.name=Matter Condenser
+impact.15.desc=Absorbs any items or liquids.%nCan operate in destruction mode or in the production of matter balls or singularities.%nRequires an ME Storage Component (1K is sufficient) for production.
+
+impact.16.name=MFSU
+impact.16.desc=The MFSU can be used to charge nano armor or quantum armor.%n%n The Charge Pad (MFSU) charges much faster than the MFE.
+
+impact.17.name=EV Field Generator
+impact.17.desc=Generator for EV voltage fields.
+
+impact.18.name=IV Mass Fabricator
+impact.18.desc=A mechanism that converts energy into liquid matter (UU).
+
+impact.19.name=Lapotronic Energy Orb Cluster
+impact.19.desc=A storage for LuV electricity.
+
+impact.20.name=Tungsten Ingot
+impact.20.desc=Tungsten ingot.
+
+impact.21.name=Osmirinigon Dust
+impact.21.desc=Osmirinigon - can be obtained on Venus. %n%nThis substance is an alternative way of obtaining Argon.
+
+impact.22.name=Logistics Security Station
+impact.22.desc=The Logistics Security Station allows you to restrict or configure access to the logistics network for other players (relevant for multiplayer games).%n%nTo do this, connect the station to the network. Then, select a player, configure the access level, authorize yourself, and click the plus button.%nA card will appear that needs to be inserted into the security slot of the logistics pipe controller.%n%nThe pipe controller can also help you check for upgrades in the pipes and some statistics.
+
+impact.23.name=Infinite Chemical Catalyst
+impact.23.desc=Used to obtain an infinity ingot.
+
+impact.24.name=Trinium Ingot
+impact.24.desc=Deep Iron can be mined on Mercury.%n%nTrinium is obtained from deep iron in a Chemical Bath.
+
+impact.25.name=Sunnarium Plate
+impact.25.desc=Sunnarium is a material used to craft components for solar panels.
+
+impact.26.name=Advanced Data Access Hatch
+impact.26.desc=The Advanced Data Access Hatch can hold up to 16 Data Sticks for recipe retrieval.%nInstall it next to the controller.
+
+impact.27.name=MFE
+impact.27.desc=The MFE can be used to charge nano-armor.%n%nThe Charge Pad (MFE) charges armor on the player or in the inventory. To charge, you need to stand on the plate.%n%nThe device is powered by a Gregtech cable.
+
+impact.28.name=Quantum Entangled Singularity
+impact.28.desc=To obtain a singularity, you need to insert a 64k ME Storage Component into a matter condenser.%n%nTo create a quantum entangled singularity (2 pieces), throw a singularity and an Enderpearl Dust on the ground in the same spot.%nTrigger an explosion near these items.
+
+impact.29.name=Raw Styrene-Butadiene Rubber Pulp
+impact.29.desc=Styrene-Butadiene Rubber can be obtained from this substance.%n%nIt is a replacement for regular rubber and is consumed more effectively.
+
+impact.30.name=Tier 6 Rocket Chip Schematics
+impact.30.desc=This blueprint allows you to craft a level 6 rocket.%nAfter scanning the rocket, the blueprint disappears.
+
+impact.31.name=Infinity Ingot
+impact.31.desc=An ingot of infinity.
+
+impact.32.name=Mysterious Crystal Dust
+impact.32.desc=This dust can be obtained on Miranda or Enceladus.
+
+impact.33.name=ME Processing Pattern Terminal
+impact.33.desc=Allows you to set templates similar to ME pattern terminals, but in a 4x4 grid.%n%nSuitable for complex recipes of the Advanced 3D Printer.
+
+impact.34.name=ME Fluid Pattern Terminal
+impact.34.desc=Allows you to encode recipes into templates in a 3x3 field.
+
+impact.35.name=Clipboard with Paper Clamp
+impact.35.desc=Hold the clipboard, right-click, and a page for writing will open.%nThe clipboard can be hung on the wall.
+
+impact.36.name=Crushed Enriched Naquadah Ore
+impact.36.desc=Enriched naquadah ore can be obtained on Miranda.
+
+impact.37.name=Naquadah Coil Block
+impact.37.desc=Heating coils for smelting LuV-tier alloys.
+
+impact.38.name=Forcicium
+impact.38.desc=The ore from which Forcicium crystals are produced can be found on Neptune's moon Proteus.%n%nIt allows to obtain lutetium and trinium through an alternative method.
+
+impact.39.name=Stargate Base
+impact.39.desc=The basic block of the Stargate.%n%nPlace the blocks in a 5x5 frame. The center is a 3x3 empty space.%nInstall the base block in the lower middle part.%nPlace 7 chevrons (Stargate Chevron Block) in the corners and the middle of the sides.%nFill the remaining spaces with 8 Stargate Ring Blocks.%n%nAlso requires a Stargate Controller and a Stargate Power Unit.%n%nRight-clicking on the assembled ring opens a menu that displays the gate's address.%nDuring the menu opening, the gate's address is copied to the clipboard.%nThere are also 5 slots where blocks can be placed to cover the lower part of the ring.%n%nFor safety, the entrance of the open gate can be closed with the Stargate Iris Upgrade.%nTo install, press Shift + Right-click on the Stargate Base.%n%nTo close the entrance, apply a redstone signal to the lower part of the ring.%nAttempting to teleport to a closed gate will result in death.
+
+impact.40.name=Advanced Cracking Unit
+impact.40.desc=An enhanced cracking unit.%n%nCan be used for parallel recipes.
+
+impact.41.name=Filler
+impact.41.desc=Filler is a mechanism that fills (or clears) the selected area according to the selected program.%n%nTo work, it must be powered by an electric cable from the GregTeсh mod.%n%nBefore installing the filler in the world, you need to mark the working area with Land marks.%nTo visually display the rays, you can send a redstone signal to the mark.%nAfter placing the marks, right-click to display the working area.%n(It is best to right-click on the mark that is connected by rays to all the other marks).%n%nThen, you need to install the filler next to the frame anywhere. The frame should appear, and the marks will drop.%n%nThe filler can be used to clear an area or fill the working area (according to the selected program) with blocks loaded into the filler.
+
+impact.42.name=Fluxed Electrum Ingot
+impact.42.desc=A ingot made of fluxed Electrum.
+
+impact.43.name=Painting Mechanism
+impact.43.desc=In the painting mechanism, you can create facades for item ducts (and other ender ducts) with a selected texture.%n%nThe mechanism is powered by an electrical cable.
+
+impact.44.name=Super Coolant
+impact.44.desc=Super Coolant.%n%nUsed for deeper cooling compared to regular coolant.
+
+impact.45.name=Crushed Europium Ore
+impact.45.desc=Now europium can be mined as ore on Miranda or Titan.
+
+impact.46.name=End Pipe
+impact.46.desc=Instant liquid teleportation allows multiple liquids to flow on the same line.
+
+impact.47.name=Volumetric Flask
+impact.47.desc=A capsule with an adjustable volume from 1 to 1000 liters (millibuckets).%n%nTo adjust the volume, press Shift + Right Click.%n%nTo scoop liquid from a single-block mechanism, use any suitable container and click on the liquid slot in the single-block interface.
+
+impact.48.name=Solar Panel
+impact.48.desc=The solar panel generates electricity during the day and eight times less at night.%nThe panel must be placed under direct sunlight.%n%nTo generate electricity, connect the panel to a Battery Buffer with batteries.%nAlternatively, place it on top of an electric machine. In this case, consider the electricity consumption when executing a recipe.%n%nWhen installed in this way, the panel requires periodic cleaning, which can be done either by Right Clicking on it with a water bucket or by removing it using a crowbar.%n%nIt is a component of more powerful panels.
+
+impact.49.name=Electromagnet
+impact.49.desc=Attracts dropped or fallen items.%n%nTo use, charge it, Right Click to activate, and place it in the lower inventory slot (or in the upper slot of the Baubles button located next to the player icon).%n%nThe Basic Capacitor Bank is used to charge items from the Ender IO mod.%nTo power the bank, connect it to the electrical network using any wire.
+
+impact.50.name=Chisel
+impact.50.desc=The chisel modifies textures of blocks.
+
+impact.51.name=Heavy Metal Cyclone
+impact.51.desc=A huge centrifuge mainly used for processing naquadah products.
+
+impact.52.name=Terminus Module
+impact.52.desc=Has a lower priority than the default route but higher than any other route. Can be used to destroy redundant items.
+
+impact.53.name=Quad Fuel Rod (MOX)
+impact.53.desc=Once plutonium is available, MOX fuel can be made from uranium.
+
+impact.54.name=BrainTech
+impact.54.desc=This item allows you to simultaneously repair all the malfunctions in the multi-block maintenance hatch.
+
+impact.55.name=Gravity Module
+impact.55.desc=This mechanism creates weak gravity in space.%n%nTo provide it with energy, an Aluminum Wire must be installed below, which connects to GregTech cables.%n%nAt least 340 eu/t (HV voltage) must be supplied.%n%nIn the mechanism's menu, you can adjust the range of action up to 16 blocks.
+
+impact.56.name=Item Conduit
+impact.56.desc=The Item Conduit moves items between storages and mechanisms.
+
+impact.57.name=UHV Field Generator
+impact.57.desc=UHV field generator.
+
+impact.58.name=Data Reader
+impact.58.desc=A device used to read Data Sticks.%nPowered by IV electricity.%n%nAfter reading a Data Stick with information, a recipe for crafting in the Assembly Line will appear.
+
+impact.59.name=Crushed Quantium Ore
+impact.59.desc=Ore of Quantium.
+
+impact.60.name=Raw Crystal Chip Parts
+impact.60.desc=A whole chip part can be grown from a raw chip part using molten europium or bacterial sludge (success rate in the latter case is 60 percent).
+
+impact.61.name=NPIC Wafer
+impact.61.desc=Wafers and components based on europium.%n
+
+impact.62.name=Ultra Bio Mutted Circuit Board
+impact.62.desc=Substrate for biomicrochips.
+
+impact.63.name=Painter
+impact.63.desc=Wires, mechanisms, ME network components, and more can be painted.%n%nThe roller must be combined with a paint. After the paint runs out, the roller can be reused.
+
+impact.64.name=Naqlatigon Dust
+impact.64.desc=This ore can be mined on Mercury.
+
+impact.65.name=Enriched Meitnerium Dust
+impact.65.desc=This dust can be obtained in a Heavy Metal Cyclone from meitnerium dust.
+
+impact.66.name=Phoenixite Ingot
+impact.66.desc=Phoenixite Ingot.
+
+impact.67.name=Potin Fluid Pipe
+impact.67.desc=Potin Fluid pipes are very capacious and relatively cheap.%n%nThe largest pipes can be used as liquid storage.%n%nThey are perfect for transporting steam and other liquids.
+
+impact.68.name=Meitnerium Ingot
+impact.68.desc=A Meitnerium ingot can be obtained from plasma generated through the fusion of Europium and Tartarite.%n%nLiquid Tartarite is produced from Meitnerium dust.
+
+impact.69.name=Unknown Crystal Shard
+impact.69.desc=Obtain shards of an unknown crystal.
+
+impact.70.name=Tier 5 Rocket Chip Schematics
+impact.70.desc=This blueprint allows you to craft a Level 5 rocket.%nAfter scanning the rocket, the schematic disappears.
+
+impact.71.name=MV Machine Hull
+impact.71.desc=Hull for an MV mechanism.
+
+impact.72.name=Infinity Booster Card
+impact.72.desc=This card is inserted into the Wireless Crafting Terminal.%n%nIt enables terminal usage at any distance or dimension.
+
+impact.73.name=Diamericium Titanium Coil Block
+impact.73.desc=Heating coils made of Diamericium Titanium.
+
+impact.74.name=Stargate Chevron
+impact.74.desc=Stargate chevron.
+
+impact.75.name=Tritanium Ingot
+impact.75.desc=Tritanium ingot can be obtained from plasma generated through the fusion of Titanium and Duranium.
+
+impact.76.name=Relocator
+impact.76.desc=Teleports to any dimension.%n%nAllows movement to pre-saved locations in the game world.%nPress SHIFT+Right Click to save coordinates.%nPress Right Click to select teleportation destination.%n%nDevice memory can store up to 10 coordinates.%n%nNow rockets should only be used for the first journey.
+
+impact.77.name=Data Stick
+impact.77.desc=Electronic storage device.
+
+impact.78.name=Vajra
+impact.78.desc=Mines blocks with a single touch.%n%nYou can enable the "Silk Touch" feature (Right-click + Mode Switch).
+
+impact.79.name=Hopper
+impact.79.desc=Allows for basic automation of material extraction.
+
+impact.80.name=LV Electric Air Condenser
+impact.80.desc=Device for collecting air.
+
+impact.81.name=Barnarda C Biomass
+impact.81.desc=By processing Purple Leaves, we obtain Barnarda C biomass.
+
+impact.82.name=UEV Electricity
+impact.82.desc=Elevates the level to UEV.
+
+impact.83.name=Remote Orderer
+impact.83.desc=These items allow for remote ordering or moving of items.%n%nTo do this, you need to install a Remote Orderer Logistics Pipe in the logistics network.%nNext to it, there should be a chest (or any suitable storage).%nTo connect the Remote Orderer, right-click on the Remote Orderer Pipe.%nNow, using the Remote Orderer, you can (Right-click in the air) request or move items, which will be transferred to the storage next to the Remote Orderer Pipe.%n%nWorks from any dimension. The logistics network must be located in loaded chunks. Energy consumption will increase.
+
+impact.84.name=Energy Module
+impact.84.desc=A storage for ZPM electricity.
+
+impact.85.name=Crafting Monitor
+impact.85.desc=The ME Storage Monitor allows you to see the number of selected items in the ME network.%nTo do this, right-click the desired item on the monitor.%n%nThe Crafting Monitor allows you to see the number of items in the order queue.
+
+impact.86.name=Ender Fluid Link Cover
+impact.86.desc=Device for transferring fluids over any distance, including between intra-dimensional.%n%nRight-click on a fluid container to install it.%n%nYou need to access the interface with Shift+Right-click and select settings: general color, input/output, access rights.
+
+impact.87.name=Basic Item Filter
+impact.87.desc=Item filter for item pipes (ender).%n%nInstall at the connection point.
+
+impact.88.name=Wetware Circuits (UHV)
+impact.88.desc=Organic UHV microchip.
+
+impact.89.name=Teleport Block
+impact.89.desc=This teleporter only works within the same dimension.%n%nTeleporter structure is 3x3.%n%nCan be powered from any electrical cable.%n%nCoordinates of the destination must be entered.
+
+impact.90.name=Advanced Vacuum Freezer
+impact.90.desc=This machine is an upgraded version of the regular Vacuum Freezer.%nIt can work in parallel.%n%nDuring operation, it consumes 50L/s of Super Coolant and outputs 25L/s of Hot Coolant.%n%nWhen building the freezer, 7 buckets of IC2 Coolant must be poured into the top part of the structure.%nIn other words, the liquid is part of the structure.
+
+impact.91.name=Lafium Ingot
+impact.91.desc=Lafium is an alloy for ZPM Tier.
+
+impact.92.name=Tier 4 Rocket Chip Schematics
+impact.92.desc=This chip allows you to craft a Level 4 rocket.%nAfter scanning the rocket, the schematics disappear.
+
+impact.93.name=Lapotronic Capacitor (ZPM)
+impact.93.desc=Stores energy for the Lapotronic Supercapacitor.
+
+impact.94.name=Finale
+impact.94.desc=Congratulations on completing Impact!!!
+
+impact.95.name=Stargate Radiation Containment Plate
+impact.95.desc=Plate for protection against radiation from the stargate.
+
+impact.96.name=Backpack
+impact.96.desc=Right-click to open the backpack. It has 27 slots for storing items, just like a chest.%n%nCan be dyed using dye.%n%nCan be named by Shift + right-clicking with the backpack.
+
+impact.97.name=Callisto Ice Dust
+impact.97.desc=Ice dust from Jupiter's moon, Callisto.
+
+impact.98.name=Duranium Ingot
+impact.98.desc=Duranium is a material created via nuclear fusion.
+
+impact.99.name=Nuclear Reactor III
+impact.99.desc=The most powerful Nuclear Reactor.
+
+impact.100.name=Input Item/Fluid Bus
+impact.100.desc=This block combines an input hatch for items and fluids.
+
+impact.101.name=ItemSink Module
+impact.101.desc=Allows the system to place items into a storage connected to a logistic chassis with this module.
+
+impact.102.name=IV Field Generator
+impact.102.desc=IV tier Field Generator.
+
+impact.103.name=Airlock
+impact.103.desc=When arranged like a portal with one block replaced by a controller, airlock frames will function as an airlock. Opening can be configured with a redstone signal.
+
+impact.104.name=Big Backpack
+impact.104.desc=The big backpack has 54 slots.
+
+impact.105.name=ZPM Components
+impact.105.desc=ZPM components for ZPM machines.
+
+impact.106.name=Superconductor UV Wire
+impact.106.desc=UV tier superconductor wire.
+
+impact.107.name=Naquadria Dust
+impact.107.desc=Dust obtained from spent Naquadah fuel rods (MOX).
+
+impact.108.name=Iron Wand
+impact.108.desc=A tool that helps quickly place blocks from the inventory into the world.%nThere are other wands available that have better durability and allow placement of even more blocks at once.
+
+impact.109.name=Cinobite A243 Ingot
+impact.109.desc=An alloy used to manufacture UV machine casings.
+
+impact.110.name=Neutronium Ingot
+impact.110.desc=A legendary neutronium ingot.
+
+impact.111.name=Quantum Computer
+impact.111.desc=A mechanism required for the computation of a research station.%n%nThe quantum computer is connected to the research station using optical fiber cables.%nIn the station, the cable is connected to the optical slave connector, and in the computer, it is connected to the optical master connector.%n%nOne transmitter can only be connected to one receiver.%nIf multiple quantum computers need to be connected to the station, they can be connected in series by installing receivers in each of them.%n%nThe computation chips and the heat vents that cool them are placed in computer racks.%nDepending on the number of racks needed, the length of the computer can be adjusted from 4 to 16 blocks.%nDifferent chips provide different amounts of computations per second.%n%nDuring operation, the racks with chips heat up.%nIf an unbalanced cooling system is chosen, when the rack reaches a temperature above 60 percent of the critical temperature, the chips in it will burn out and it will start to cool down.%nHint: The most efficient cooling system is 3 Advanced Heat Vents + Tier 3 Graphics Card.%n%nPower Consumption:%nThe quantum computer consumes 524,288 * (1+n) EU/t,%nwhere n is the number of racks with chips (empty racks do not consume energy).%n%nThe blocks in front of the computer's fans (Computer Heat Vent) must be empty.%n%nImportant!%nDo not dismantle the structure while it is operational to avoid explosions!%n%nResolving Uncertainty:%n%nBalance the lighting around the focal points in the Uncertainty Resolver.%nThere are a total of 9 focal points, either active in green or red, and inactive points do not need to be balanced.%nThe LEDs have 2 shades on their surface.%nA darker color indicates the area of influence of the focal point.%nOnly this area needs to be balanced over the focal point to satisfy it.%nThe buttons on the sides are used to select and replace 2 uncertain values.%n%nUncertainty Resolver X automatically resolves uncertainty.
+
+impact.112.name=MV Chemical Reactor
+impact.112.desc=Enables more complex chemical reactions.
+
+impact.113.name=Mysterious Crystal Processing Unit
+impact.113.desc=Components based on a Mystrious crystal.%n
+
+impact.114.name=Cosmic Neutronium Dust
+impact.114.desc=Cosmic neutronium dust is obtained in the Heavy Metal Cyclone.
+
+impact.115.name=End Quarry
+impact.115.desc=A quarry that automatically mines blocks and replaces them with dirt blocks.%n%nBefore installing the quarry, you need to place markers (edge markers) at the corners of the rectangle.%n%nThen, place the quarry next to one of the markers.%n%nThe mined blocks are transferred through the top surface of the quarry.%n%nIt is powered by RF energy, which is converted by the cables of the GregTech mod.%n%nTo activate the quarry, press Shift + Right Click.%n%nYou can also install upgrades close to the walls of the quarry.%n%nThere is no need to load the working area of the quarry.
+
+impact.116.name=UV Electricity
+impact.116.desc=Elevating the level to UV.
+
+impact.117.name=Naquadah Alloy Coil Block
+impact.117.desc=Heating coils made of naquadah alloy.
+
+impact.118.name=Superconductor ZPM Wire
+impact.118.desc=Superconductor ZPM tier.
+
+impact.119.name=Superconductor LuV Wire
+impact.119.desc=Superconductor LuV tier.
+
+impact.120.name=Middle Backpack
+impact.120.desc=A more spacious backpack that contains 36 slots.
+
+impact.121.name=High Pressure Liquid Boiler
+impact.121.desc=This boiler runs on lava or creosote.%n%nA heated boiler produces 600 liters of steam per second.
+
+impact.122.name=Advanced Extraction Module
+impact.122.desc=Advanced Extraction Modules Mk1-Mk3 are similar in speed to the regular versions, but allow you to configure which items to extract from storage.
+
+impact.123.name=Energy Infuser
+impact.123.desc=A multiblock that charges any armor, tools, and batteries.%n%nTo charge an item, place it in the controller.%n%nThe charging speed depends on the energy level supplied to the multiblock.%n%nImportant!%nDisassembling the structure while it is operational is prohibited to prevent explosions!
+
+impact.124.name=Sterilized Bio Medium
+impact.124.desc=Sterilized Bio Medium can be obtained in a Fluid Heater from Raw Bio Medium.%n%nRaw Bio Medium can be obtained in a Mixer from Alien Organic Dust and Mutagen.%n%nMutagen is obtained from Enriched Bacterial Sludge in a Distillator.
+
+impact.125.name=UV Microwave Energy Transmitter
+impact.125.desc=Transmits UV voltage over a distance through microwave radiation.%n%nNitrogen plasma is required for interstellar transmission.%n%nEnergy loss is 0.004 EU per 100 blocks.
+
+impact.126.name=Polymorphic ItemSink Module
+impact.126.desc=Allows the system to move items to storage that are already present there.
+
+impact.127.name=Crushed Naquadria Ore
+impact.127.desc=Now you can obtain naquadria from ore.
+
+impact.128.name=Mysterious Energy Crystal Module (UEV)
+impact.128.desc=An energy sphere for UEV voltage.
+
+impact.129.name=Liquid Enriched Naquadah Generator
+impact.129.desc=A powerful generator that runs on enriched naquadah fuel (Light, Medium, Heavy Enriched Naquadah Fuel).%n%nUp to 3 Input Hatches can be installed for 3 types of fuel.%n%nThe generator starts producing energy only when it reaches 100 percent efficiency (ramp-up time of 20 seconds).%n%nOutput power - 8,388,608 EU/t.%n%nThe color of the I-Glass in the structure is insignificant.%n%nQuantum Stuff appears on top when the structure is assembled correctly.
+
+impact.130.name=Multi Distillation Tower
+impact.130.desc=An improved distillation tower.%n%nCan be used for parallel recipes.
+
+impact.131.name=Argon
+impact.131.desc=Argon can be obtained from cooled air in the Distillation Tower.%n%nArgon is needed for smelting certain metals.
+
+impact.132.name=Non-serviceable Maintenance Hatch
+impact.132.desc=A maintenance hatch that ensures the operation of the multiblock without breakdowns.
+
+impact.133.name=ME Interface Terminal
+impact.133.desc=Allows viewing the ME network interfaces.
+
+impact.134.name=Quantum Suit
+impact.134.desc=Quantum Suit is an upgraded version of the nano-armor.%n%nIt allows:%n%n- Faster sprint,%n%n- Breathing underwater,%n%n- Stepping over 3 blocks without jumping (Sprint + Boost Key),%n%n- Flying with a jetpack-like effect (Mode Switch Key + Boost Key),%n%n- Hovering with gradual descent (Mode Switch Key + Spacebar).
+
+impact.135.name=UV Field Generator
+impact.135.desc=UV field generator.
+
+impact.136.name=Ultimate Battery (UHV)
+impact.136.desc=A high-voltage UHV battery capable of storing up to 9.2 quintillion (18 zeros) EU.
+
+impact.137.name=Meteoric Iron Ingot
+impact.137.desc=Meteoric iron can be obtained on the Moon from mined ore or from meteorites.
+
+impact.138.name=PIC Wafer
+impact.138.desc=A wafer which is cut for circuits for electrical machines.
+
+impact.139.name=LV Transformer
+impact.139.desc=The transformer converts the voltage level of electricity.%n%nAfter installation in the world, the transformer operates by default in the step-down mode.%nIt converts 1 ampere of MV voltage to 4 amperes (or less, depending on the consumers) of LV voltage.%nMV voltage needs to be supplied to the side that looks different from the other sides. The other sides of the transformer will output LV voltage.%n%nBy using a Soft Mallet (right-click), you can switch the transformer to the step-up mode.%nIn this case, 4 amperes of LV voltage should be supplied to any side of the transformer except the one that looks different from the others.%nThis side will output 1 ampere of MV voltage.%n%nIf the transformer is placed towards the LV network in the step-up mode, the wires may burn and the LV machines may explode.
+
+impact.140.name=Steam Input/Output Hatch
+impact.140.desc=Input and output hatches for steam with large capacity.%n%nSuitable for steam (only for steam!) generated by a nuclear reactor.
+
+impact.141.name=NAND Memory Chip
+impact.141.desc=To make this chip, use a clean room.
+
+impact.142.name=Let's go!
+impact.142.desc=Welcome to IMPACT!%n%nIMPACT is a global industrial modpack for Minecraft 1.7.10, based on GregTech 5 and various mods deeply integrated with each other.%n%nSome features of the modpack:%n%n-virtual ores%n-the ability to automatically extract minerals%n-multiblock mechanisms%n-no hostile mobs%n-no magic%n-nanosuit allows you to do without food%n-gradual complication of technological chains%n-parallelism of multiblocks%n-space exploration%n-no need to breed bees and a large vegetable garden%n%n-------%n%nRead the description of the quests carefully. Very often, this is where you'll find the answers to your questions.%nDon't know how to do somethin7 - did you read the description?%n%n_______%n%nUseful commands:%n/bq_user help - gives you a book with additional information on the Better Questing mod%n/updateQuests - updates the quests in this game after updating the quest file in the folder ...\minecraft\config\betterquesting%n%n-------%nSo, let's get started!
+
+impact.143.name=Wood
+impact.143.desc=Humans have been using wood for thousands of years for many purposes, primarily as fuel, a construction material, or for making tools.%n%nIn real life, a person cannot chop down a tree with their bare hands. But! We are in the game, so try to do it.%n%nImportant!§r%nYou can find a wide variety of tree types, based on color or size. Each tree is unique in its own way, pay attention to that.
+
+impact.144.name=Gravel
+impact.144.desc=Gravel is a source of flint.%nMost often, gravel can be found near rivers, lakes, and seas, as well as in the mountains.%n%nTip!§r%nTo mine gravel faster, it is better to craft a shovel out of flint.
+
+impact.145.name=Coke Oven Bricks
+impact.145.desc=These types of bricks are needed for building a coke oven.
+
+impact.146.name=Workbench
+impact.146.desc=Make a workbench.
+
+impact.147.name=Sticks made of saplings
+impact.147.desc=The first sticks can be obtained from saplings that have dropped from the foliage.%n%nMost often, sticks are used as a component of tools.
+
+impact.148.name=Flint
+impact.148.desc=One of the first minerals actively used for creating tools and more.%n%nTip!%nYou don't have to wait for flint to drop from gravel. You can combine three pieces of gravel in the crafting grid to obtain one flint.
+
+impact.149.name=Rubber Tree
+impact.149.desc=This tree stands out from the rest with its long top of the crown.%nThe wood itself is unsuitable for processing into planks, but the resin collected from the trunk will play a big role in industrialization in the future.%n%nTip!%nCollect saplings from this tree and plant them near your base. You will need a lot of sticky resin in the future.
+
+impact.150.name=Sticky resin
+impact.150.desc=To extract latex, you need to craft a special tool - a treetap.%n%nTake the treetap in your hand and right-click on the tree where a tar spot with sticky resin is visible. The resin will drop next to the tree.
+
+impact.151.name=Let there be light!
+impact.151.desc=The first torch can be made from a stick and sticky resin.
+
+impact.152.name=Tools made of Flint
+impact.152.desc=To make a variety of tools, a lot of flint is needed. %nEach tool is used for its own purpose:%nPickaxe - for mining hard rocks. %nAxe - for logging wood. Can fully chop down a single tree trunk.%nShovel - for digging dirt, sand, and gravel.%nHoe - used for agricultural crafts.%nSword - used for killing animals (a flint sword ignites).%nKnife - used for crafting. It can shear one wool block from a sheep.%nSaw - used for crafting. For example, to obtain planks.%nSoft Mallet - used for crafting and also allows you to turn on and off your machines.Please note that additional information may be provided in the tool descriptions.
+
+impact.153.name=Wool and Strings
+impact.153.desc=There are 3 ways to obtain strings:%n%nKill a sheep and pick up its wool.%n%nUse a previously made knife to shear the wool off a sheep. Simply approach the sheep and, holding the knife in your hand, right-click. You will obtain 1 wool.%n%nYou can also find cobwebs in the world and collect them. You will get some strings.%n%nCraft strings by using a knife and wool.
+
+impact.154.name=Forge Hammer
+impact.154.desc=This hammer breaks 9 blocks at once (3x3) in contrast to a pickaxe.%n%nWith it, you can mine stone dusts from stone blocks.%n%nUseful minerals and metals can be produced from the stone dust.%n%nThe hammer can also mine gravel, sand, or dirt at a slower speed in a 3x3 area.
+
+impact.155.name=Tanned Leather
+impact.155.desc=A drying rack is needed for further processing of the leather.%n%nSimply hang the bound leather on it.%n%nThe drying process takes 200 seconds (you can check the progress by pointing the cursor at the rack).
+
+impact.156.name=Leather
+impact.156.desc=Since hostile mobs are absent in this world, you will need to hunt peaceful animals.%nStart with cows, as you will need their leather.%n%nTo collect leather and wool more efficiently, you can craft a Butchery Knife and shears (the latter require iron).
+
+impact.157.name=The Mill
+impact.157.desc=The Mill is your first multi-block.%n%nThe Mill is necessary to grind stone dust mined earlier and get materials for the future game.%n%nTo build this machine, you need to craft:%n- The Mill x1.%n- The Mill Wood Planks x262.%n- The Mill Rotor x1.%n%nTip!%nUse the Hologram Projector to see the structure.%nThe controller (The Mill) should be 9 blocks above the foundation.%n%nThe rotor should be installed outside (Shift-click the rotor on the outside of the controller).%n%nDon't forget, any multiblock can be turned on with a Mallet!%n%nYou can remove the controller and the mill blocks with an axe.
+
+impact.158.name=Stone Furnace
+impact.158.desc=Mine some cobblestone using tools and craft a furnace.%nNow you can cook meat and smelt stone from cobblestone.%nYou can use wood, coal, etc. as fuel.
+
+impact.159.name=Metal Tools
+impact.159.desc=Now that you have access to metals, you can make new tools.%n%n1. File - used for crafting.%n%n2. Hammer - used for crafting and to toggle auto-output of electrical machines.%n%n3. Screwdriver - used for crafting and for various machine settings.%n%n4. Wrench - used for crafting and to dismantle or rotate mechanisms and pipes.%n%n5. Wire Cutters - used for crafting and can also be used to cut wires.
+
+impact.160.name=Primitive Water Pump
+impact.160.desc=Soon you will need a lot of water, so you need to come up with a way of automatic extraction.%n%nThe Primitive Water Pump is a right thing for this.%n%nIt is designed for water extraction in the early stages and in hard-to-reach places without electricity.%n%nThe machine extracts water depending on the biome in which the controller is located.%n%nBiome coefficient (biome):%n- Ocean, River: 1000%n- Taiga: 175%n- Jungle: 350%n- Swampland: 800%n- Snow, Iceland: 300%n- Beach: 170%n- Plains, Forest: 250%n- Hills, Mountains, Savanna, Desert, Mesa: 100%n%nStructural coefficient (structure):%nThe coefficient can be changed using the Output Hatch:%n- Pump Output Hatch: 1%n- ULV Output Hatch: 2%n- LV Output Hatch: 3%n%nThe general formula for water extraction:%nwater (L/s) = biome * (structure + 1)%n%nTo build you need a controller, 10 Primitive Pump Desk, 10 Wood Frame Boxes and 1 Pump Output Hatch.%n%nThe Pump Output Hatch needs to be placed in the blue marked location. This block produces water, which can be collected with a bucket or directed into a fluid pipe.
+
+impact.161.name=Bucket
+impact.161.desc=Water is one of the important resources. To transport water from rivers and oceans, you need a bucket.
+
+impact.162.name=Cauldron Dust Washing
+impact.162.desc=The dust obtained in the mill is impure.%n%nThe Cauldron will help clean the impure dust.%n%nUsing a bucket, you need to pour water into the Cauldron, and then throw the impure dust on top.%n%nOne bucket can be used for 3 times and a whole stack of dust can be washed at once.
+
+impact.163.name=Bronze Ingot
+impact.163.desc=Since you have clean dust of tin and copper, let's make some bronze.%n%nBronze is the guide to the Bronze Age!
+
+impact.164.name=Paper
+impact.164.desc=A mortar is a tool for grinding materials.%nA rolling pin is necessary for rolling materials.%n%nUseful information!%nStones for crafting a mortar are not necessarily smelted from cobblestone in a furnace. Thanks to the Underground Biomes mod you can find a stone material in the world that will be mined as a stone, rather than cobblestone. These stones have the ore dict "stoneSmooth" which can be viewed by hovering the cursor over the mined stone and pressing Shift. %n%nIt's time to start making paper. Paper is made in a few steps:%n%nHarvesting sugar canes%nGrinding the sugar canes%nRolling the obtained ground chad.
+
+impact.165.name=Brick Mold
+impact.165.desc=To create bricks, you need a brick form, so craft one. It can be used for 300 crafts. After that it will break.
+
+impact.166.name=Bricks for the Blast Furnace
+impact.166.desc=You can build the first blast furnace with these bricks.
+
+impact.167.name=Red Bricks
+impact.167.desc=These bricks can be used for construction and crafting of some mechanisms.
+
+impact.168.name=Bricked Blast Furnace
+impact.168.desc=A blast furnace is required to smelt wrought iron and steel.%n%nCrafting a primitive blast furnace involves 4 steps:%n%n1. Mixing Wet Concrete Dust.%n2. Crafting Fireclay Bricks.%n3. Firing Fireclay Bricks.%n4. Crafting the Blast Furnace and its components.%n%nTo build a primitive Blast Furnace, you need:%n- Bricked Blast Furnace x1.%n- Firebricks x32.
+
+impact.169.name=Steam Power
+impact.169.desc=Congratulations! You have completed the primitive age.%n%nWelcome to the steam age!%n%nYou will now have to produce steam-powered mechanisms.
+
+impact.170.name=Coke Oven
+impact.170.desc=Automatic fuel production is an important step towards industrialization.%n%nIn this case, the production of Charcoal and Creosote Oil is highly relevant.%nA coke oven, another multi-block structure, allows you to convert wood into Charcoal and obtain a small amount of Creosote Oil (used in the Semifluid Generator, which generates electricity).%n%nTo build a coke oven, you need:%n- Coke Oven Brick x22%n- Primitive Output Hatch x1%n- Primitive Output Bus x1%n- Primitive Input Bus x1%n- Coke Oven x1
+
+impact.171.name=Steam Compressor
+impact.171.desc=This is a steam-powered compressor.%n%nWorking principle:%nIt consumes 4 units of steam/tick to compress or press one item for 40 seconds, totaling 3200 units of steam per item.
+
+impact.172.name=Endereye Lens
+impact.172.desc=Lens from the Eye of the Edge? Greetings from Enderman.
+
+impact.173.name=How to mine valuable resources
+impact.173.desc=In the world of IMPACT, there is a completely unique system for generating mineral resources - there are no ore blocks. %nYou might ask why? Well, automation is the key to progress!%nThat's why we decided to do away with ore blocks in the world.%n%nDespite the inability to detect veins with the naked eye, this generation provides a more comfortable way to mine ore.%n%nAdvantages of abandoning block-based ores:%n%n- GregTech ore is a TileEntity - that's bad. What is a TileEntity? It's a block that has some logic. The fewer of these blocks in the world, the more stable the world becomes.%n- Fast world generation during creation - loading new chunks.%n- It's convenient for developers.%n%nThe principle of ore generation:%n%nOre is generated in 512x512 block regions, with 64 different veins in each region, generated across 16 chunks (4x4).%n%nThere are 2 layers in the game:%n- Layer #0: Small ores, can only contain 1 type of ore.%n- Layer #1: Normal ores, can contain up to 4 types of ore.%n%nYou can read more details on our website in the MECHANICS section.
+
+impact.174.name=Ore Sampling Tool
+impact.174.desc=You may be wondering how to find out where each ore is located.%n%n1. NEI. You can determine which ore is present in your dimension using NEI. To do this, find the ore you're interested in, like iron (Crushed Iron Dust). Since we only have the first miner, we need Small ores (Layer #0).%n%n2. The Ore Sampling Tool - with this tool, you can find out which ore is present in the current chunk (only for Layer #0).
+
+impact.175.name=Primitive Miner
+impact.175.desc=It's time to mine ores for real!%n%nPrimitive Miner - the perfect solution for that.%n%nHow the primitive miner works:%nThe miner uses any fuel and mines ore in the chunk it is in.%n%nUsing the Miner Drill Hatch, the miner extracts valuable resources.%nA Drill Head is placed in the Drill Hatch.%nDurability of the Drill Head decreases with each cycle of the miner's operation.%n%nThe miner does not have any bonuses for mining. It can only mine layer #0.%n%nImportant!%nOnly one miner can be placed in a chunk!%n%nTo build a Primitive Miner, you will need:%n- Iron Frame Box x16.%n- Miner Drill Hatch x1.%n- Primitive Miner x1.%n- Drill Head x1.
+
+impact.176.name=Small Coal Boiler
+impact.176.desc=At this stage, you will need to produce steam.%n%nSteam is produced by boilers. The first available boiler is the Small Coal Boiler.%n%nHow it works:%nWater and fuel are supplied, and steam is produced.%nIt produces 120 L/s of steam.%n%nThe boiler has a minimum temperature of 20 and a maximum of 500. Every 45 ticks, the boiler's temperature decreases by 1. Every 12 ticks, 1 energy is consumed from the current fuel, increasing the temperature by 1. However, when the boiler reaches its maximum temperature, it will stop consuming fuel for further heating. This means that during heating, coal will burn for only 96 seconds, but when the boiler is fully heated, the coal will burn for 360 seconds, equivalent to 43,200 liters of steam.%n%nThe boiler can hold up to 16,000 liters of steam or 16,000 liters of water. As long as the boiler's temperature is above 100, every 25 ticks, the boiler will consume 1 liter of water and produce 150 liters of steam. Temperatures above 100 do not increase the steam production rate. The boiler will attempt to release steam through all sides of the block except the bottom. Through the bottom side, the boiler accepts water, allowing water pipes to be placed below the line of boilers. If the steam storage is full, a quarter of its capacity will be released, and as a warning, smoke particles and a whooshing sound will be created.%n%nWater can be added to the boiler by right-clicking it with a water bucket or by placing any water capsule in a special slot in the boiler. Like any GregTech machine, it will return an empty capsule. If the water runs out in a boiler heated above 100, an explosion will occur when water is added. Therefore, it is necessary to wait for it to cool down.%n%nFuel (Energy):%n- Coal - 160 units%n- Charcoal - 160 units%n- Lignite - 120 units%n- Coal Coke - 320 units
+
+impact.177.name=Bronze Hull
+impact.177.desc=Any machine as a hull. %n%nThis is one type of the housing.
+
+impact.178.name=Steam Alloy Smelter
+impact.178.desc=This is a smelting furnace powered by steam.%n%nWorking principle:%nThe smelting furnace is the most energy-intensive steam machine, consuming up to 32 steam per tick. To operate continuously, it requires 6 small coal or solar boilers.
+
+impact.179.name=Electrification
+impact.179.desc=Congratulations! You have entered the electric age.%n%nAhead of you is the era of electricity, which is amazing because you will have to master new technologies and learn to handle electricity. After all, it can be dangerous.
+
+impact.180.name=Steam Forge Hammer
+impact.180.desc=This is a forging hammer powered by steam.%n%nWorking principle:%nThe steam forging hammer is a fast but quite energy-intensive machine. Most of its recipes consume 20 steam per tick, but most of them do not require more than one or two seconds to complete.
+
+impact.181.name=Steam Extractor
+impact.181.desc=This is an extractor powered by steam.%n%nWorking principle:%nIt consumes 4 units of steam per tick to process one item for 40 seconds, totaling 3200 units of steam per item.
+
+impact.182.name=Steam Macerator
+impact.182.desc=This is a macerator powered by steam.%n%nWorking principle:%nIt consumes 4 units of steam per tick to crush one item for 40 seconds, totaling 3200 units of steam per item.
+
+impact.183.name=Steam Furnace
+impact.183.desc=This is a regular furnace powered by steam.%n%nWorking principle:%nIt consumes 8 units of steam per tick to smelt one resource for 12.8 seconds, totaling 2048 units of steam per item.
+
+impact.184.name=Mold
+impact.184.desc=To create specific shapes, molds of various geometry are used.
+
+impact.185.name=First Steel
+impact.185.desc=Steel is the most commonly used material in the near future.%n%nThanks to steel, you can create high-pressure steam engines that are faster than bronze ones. It also opens up the era of electric technologies - LV tier.%n%nTip!%nMake as much steel as possible.
+
+impact.186.name=Wrought Iron
+impact.186.desc=Wrought iron, one of the strategically important resources.%n%nIn the initial stages, you can obtain wrought iron through the heat treatment of iron nuggets. You can do this through a regular furnace or a blast furnace (much faster).%nThen, you should melt the nuggets of wrought iron into ingots.%n%nUsing wrought iron, you can improve your bronze machines or create new ones!
+
+impact.187.name=Simple Solar Boiler
+impact.187.desc=This is a primitive boiler that produces steam using solar heat. When heated, the solar boiler has the same steam output as a small coal boiler, producing 150L of steam every 25 ticks.%n%nOperating Principle:%nThe Solar Boiler uses the same heating and cooling math as the small coal boiler, but its "fuel" is more complex.%n%nEvery 256 ticks, the boiler checks if it can see the sun. If it can, it gives itself 8 fuel units. During (approximately) 5 seconds (8x12 = 96 ticks), it is active and its heat increases by 6 (+8-2). Over the next 8 seconds, it loses 3.25 heat (-1 for 45 ticks), resulting in a net change of ~2.75 heat over 13 seconds of daylight or approximately 0.21 degrees per second. Therefore, it takes the cold solar boiler 6.3 minutes to start producing steam (temperature from 20 to 100>). Since a Minecraft day only lasts 10 minutes, if you don't sleep, the Solar Boiler will only generate Steam for about 5.5 minutes out of every 20-minute full day (3.7 minutes during the day, 1.8 minutes to cool down after darkness sets in). Thus, to make solar boilers practical, constant bed operation is required.%n%nThe Solar Boiler requires 38 minutes of continuous sunlight to reach maximum temperature (500). Unlike other boilers, the maximum temperature has no effect on the solar boiler.%n%nThe boiler can hold 16,000L of steam and 16,000L of water. As long as its temperature is above 100, every 25 ticks it will consume 1L of water and produce 150L of steam. Temperatures above 100 do not affect steam production. The boiler will attempt to output steam from all sides except the bottom. However, it will accept water input from below through a pipe, allowing water piping to safely run underneath the line of boilers. If the steam tank becomes full, 1/4 of its capacity will be discarded, and a smoke particle and sound effect will be emitted as a warning.%n%nWater can be added to the boiler by right-clicking on the machine with water buckets or by placing any type of water cell in the water input slot in the graphical interface. Like all GregTech machines, it returns an empty cell. If the temperature is above 100 and the boiler runs out of water, adding water will cause an explosion, so wait until it cools down.%n%nCalcification:%nAs the boiler remains active, it will slowly calcify, decreasing steam output. Calcification begins after 10,000 steam production cycles (250,000 ticks, 208 minutes 20 seconds, just under 3.5 hours), after which steam output decreases by 1L every 100 production cycles, down to a minimum of 50L every 25 ticks (1/3 normal output) after another 208 minutes and 20 seconds. This timer and its effects are reset if the boiler is picked up and moved (these parameters are not stored in the item). The goal of this change was to force manual interaction with low-tech single-block boilers rather than simply ensuring their continuous operation through automation.%n%nNote that the time the boiler spends below the temperature of 100 (not producing steam) is not counted towards calcification. In practice, this means that since (as noted above) the Solar Boiler operates for 5.5 minutes out of every 20-minute days, on a running server, the Solar Boiler will operate for approximately 12 hours before it starts losing output to calcification.
+
+impact.188.name=Charcoal Pile Igniter
+impact.188.desc=Obtaining charcoal.%n%nCharcoal Pile Igniter is a method of producing charcoal faster than in a coke oven, but without the simplicity of automation and creosote.%n%nWorking principle:%nThe multi-block charcoal pile consists of a bottom layer of bricks, ranging in size from 3x3 to 11x11. Place up to 5 layers of logs on top of the bricks that you want to turn into charcoal, then place the igniter on top in the center. Cover all surfaces of the logs with dirt, and then activate the igniter with a flint and steel. If the top part of the igniter starts to glow, the process has started.%n%nOnce the process is complete, you can remove the blocks of dirt. Instead of logs, you will have charred blocks from which charcoal drops.
+
+impact.189.name=Crushed glass
+impact.189.desc=You need to get glass dust.%n%nYou can crush normal glass or thickened glass.%nUsing the clear glass dust the next craft will be twice as fast.
+
+impact.190.name=Glass Tube
+impact.190.desc=A glass tube is needed for new technologies.
+
+impact.191.name=Raw Rubber Pulp
+impact.191.desc=Processing sticky resin in an extractor will yield raw rubber pulp.
+
+impact.192.name=Rubber Bar
+impact.192.desc=It's time to produce rubber, for this you will need sulfur and raw rubber pulp.
+
+impact.193.name=Rubber Sheet
+impact.193.desc=Rubber sheets are used in many crafts.
+
+impact.194.name=HV Autoclave
+impact.194.desc=Allows the cultivation of ender pearls. And more.
+
+impact.195.name=LV Brewery
+impact.195.desc=A machine for obtaining certain liquids through fermentation processes.
+
+impact.196.name=Vacuum Tube
+impact.196.desc=A vacuum tube is a simple component of an electrical circuit. It is also used to create microchips.
+
+impact.197.name=Resistor
+impact.197.desc=And this is a resistor, a component of a microchip that provides resistance so that your microchip doesn't burn out, right?
+
+impact.198.name=ULV Electric Motor
+impact.198.desc=The Electric Motor rotates when an electric current is supplied to it.%nElectric motor is the main component of many electrical machines.%n%nTo magnetize an iron rod, use 4 redstone dusts.
+
+impact.199.name=Saw Mill
+impact.199.desc=The Saw Mill is designed for processing wood, as all other wood processing mechanisms are disabled (except for manual tools).%n%nThe structure includes:%n%n- Input Bus - input for items (logs, planks),%n%n- Output Bus - output for items (you can take the output by hands or place a chest for automatic unloading),%n- Input Hatch - input for water,%n%n- Energy Hatch - input for electricity. You can connect a cable, energy storage, or generator. If the machine lacks electricity during operation, it will stop and you will lose some resources. Therefore, it is recommended to calculate how much electricity is required to complete the recipe. The Energy Hatch can accept up to 2A (Amperes).%n%n%nThe Saw Mill has 3 operating modes. The modes can be switched using a screwdriver on the controller.%n%nMode 1. Planks & Sawdust:%nThis mode allows you to obtain planks and sawdust from logs. If you have an ULV Output Bus, you will only get planks as output.%n%nMode 2. Wood Pulp & Sawdust:%nThis mode allows you to obtain wood pulp and sawdust from water and logs. If you have an ULV Output Bus, you will only get wood pulp as output.%n%nMode 3. Only Sawdust:%nThis mode allows you to obtain only sawdust from logs.
+
+impact.200.name=Lead Cable
+impact.200.desc=The Electric Cable transmits electricity.
+
+impact.201.name=Wood Pulp
+impact.201.desc=Thanks to the Saw Mill, we can obtain not only wood and sawdust, but also wood pulp, which will be very useful in the future.
+
+impact.202.name=Circuit Board
+impact.202.desc=The Circuit Board is the basis for simple microchips.
+
+impact.203.name=First Circuit (LV)
+impact.203.desc=A microchip for crafting electrical machines.
+
+impact.204.name=ULV Steam Turbine
+impact.204.desc=The first generator, provide it with steam and it will give you electricity.
+
+impact.205.name=LV Electric Motor
+impact.205.desc=Electric motor - the main component of electric machines.
+
+impact.206.name=LV Bending Machine
+impact.206.desc=A device for rolling metal into sheets or foil. And more.%n%nNow you can make plates from ingots at a 1:1 ratio and foil from plates at a 4:1 ratio.
+
+impact.207.name=LV Wiremill
+impact.207.desc=A device for manufacturing wires and cables.%n%nNow you can craft wires using a more economical recipe.
+
+impact.208.name=LV Steam Turbine
+impact.208.desc=An LV electricity generator. Consumes steam, outputs 32 EU/t, 1 ampere.
+
+impact.209.name=LV Assembling Machine
+impact.209.desc=An LV voltage assembly machine.
+
+impact.210.name=Ore Sampling Machine
+impact.210.desc=Ore extraction from layer 1.%n%nThis equipment allows you to manually extract resources from layer #1.%n%nAssemble the multiblock using the Hologram Projector.%nThe structure must contain a Miner Drill Hatch, in which you need to place the Drill Head.%n%nTo extract ore, right-click (RMB) on top of the controller (if the device does not activate, you need to activate it with a Soft Mallet).%nWait for 1 minute. Collect the ore that has dropped from the manual miner.%n%nIn layer #1, there are 4 types of ore and dust, each one has its own chance of extraction. Keep mining until you get the desired resource.
+
+impact.211.name=Basic Electric Miner
+impact.211.desc=Industrial ore extraction.%n%nAn electric miner for extracting valuable minerals. Assemble the multiblock using the Hologram Projector.%n%nThe miner extracts ore in the chunk it is located in.%n%nUsing the Miner Drill Hatch, the miner performs the extraction of valuable minerals.%n%nThe Drill Hatch contains the Drill Head, which has durability.%nFor each cycle of the miner's operation, the durability of the Drill Head decreases.%n%nDifferent tiers of Drill Heads can be used. The tier of the head means that the basic ore extraction (x1) is multiplied by the tier level: Extraction = 1 + tier%n%nThe miner has a bonus to extraction. Crushed ore is obtained during the mining process (5 percent chance of crushing).%n%nTo operate the miner, the structure must contain an Input Hatch, into which Drilling Fluid must be loaded. The drilling fluid is consumed during extraction.%n%nImportant!%nOnly one miner can be present in a single chunk.
+
+impact.212.name=Small Battery
+impact.212.desc=A battery for storing electricity.%n%nFirst, you need to make the battery hull.%n%nThen fill the battery in a Canning Machine.%n- Use sodium to create a Sodium Battery (capacity: 50,000 EU)%n- Use cadmium to create a Cadmium Battery (capacity: 75,000 EU)%n- Use lithium to create a Lithium Battery (capacity: 100,000 EU)%n%nNote that the batteries are not always interchangeable in recipes.%n%nHint: now you can create a storage for batteries (Battery Buffer) with the desired number of slots (1, 4, 9, 16).
+
+impact.213.name=LV Ore Washing Plant
+impact.213.desc=Processing ore through washing in a special machine. This helps extract more resources from the mined ore.%nDon't forget to supply water.
+
+impact.214.name=Soldering Iron
+impact.214.desc=This is a soldering iron, which is required for maintaining multiblocks.%n%nTo perform maintenance, right-click (RMB) on the Maintenance Hatch and use the soldering iron in the center.%nThe soldering iron must be charged with at least 10,000 EU. Solder wire must be present in the inventory. One unit of wire will be consumed when used.%n%nRepairs the "Circuitry burned out" malfunction.
+
+impact.215.name=Graphite Dust
+impact.215.desc=Diamond ore contains graphite, which we need for the new machine.
+
+impact.216.name=LV Arc Furnace
+impact.216.desc=This is an arc furnace, one of the power-hungry machines and the most useful at this stage.%nIt may consume up to three amps during operation.
+
+impact.217.name=What a meeting!
+impact.217.desc=You are already familiar with this metal, but now it's easy to make it in the Arc Furnace.%nThe operation requires a small amount of oxygen.
+
+impact.218.name=Annealed Copper Ingot
+impact.218.desc=Annealed copper will help transition to more economical processes and in the future, obtain wires with low losses for the next voltage level.
+
+impact.219.name=LV Wire Assembling Machine
+impact.219.desc=An assembling machine for working with wires.
+
+impact.220.name=LV Fluid Extractor
+impact.220.desc=This machine processes the material to extract components from it or melt it.
+
+impact.221.name=Electric Blast Furnace
+impact.221.desc=The electric blast furnace is a multi-block structure for smelting metals.%nIt operates on electricity. To perform MV level recipes, two LV Energy Hatches must be installed in the structure. Each hatch consumes two amps.%n%nThere is uneven electricity consumption by the Energy Hatches. One may consume more than the other.%nTherefore, the advice is to determine which one consumes more and provide it with three amps. The third amp will compensate for electricity losses. Therefore you should supply it with 5A for continuous operation.%nIf there is not enough electricity to perform the recipe, the machine will stop and the raw materials will be lost.
+
+impact.222.name=Smelting Metals
+impact.222.desc=Melt the first metal ingots in the furnace using metal dust: iron, copper, tin, lead.
+
+impact.223.name=Useful Minerals
+impact.223.desc=Now that you have a hammer, you can mine the first minerals and metals!%n%nTo do this, enable a special mode on the hammer by right-clicking on any block.%nThis mode allows you to mine stone dust from the stone ore:%n%n1. Metal-containing stone dust - contains four types of resources: iron, copper, tin, lead.%n2. Sulfur-coal stone dust - contains three types of resources: sulfur, coal, lignite.%n3. Mineral-containing stone dust - contains two types of resources: gypsum, calcite.%n%nTo find out which blocks can yield stone dust, press SHIFT+Right-click.
+
+impact.224.name=Iron Furnace
+impact.224.desc=The iron furnace operates faster than a stone one and consumes less fuel. It can be dismantled with a key.%nTip: Don't be afraid to craft redundant furnaces. They will be used for further recipes.
+
+impact.225.name=Lumber Axe
+impact.225.desc=The large axe allows for fast tree chopping.
+
+impact.226.name=EV Component Assembler
+impact.226.desc=Assembler for EV components.
+
+impact.227.name=Advanced Circuit Board
+impact.227.desc=This substrate for microchips is made from epoxy resin.
+
+impact.228.name=Multi PBE Machine
+impact.228.desc=This machine is an equivalent of the Extruder, Bender, and Forming Press. It can work in parallel.%n%nIt has three operating modes. The modes are switched with a screwdriver.%n%nIt can work with multiple programmed circuits and extruder shapes located in different buses in the "Buses separated on" mode (switched with a screwdriver while holding the Shift key). The recipe is executed with the circuit/shape that is in the same bus as the material.%n%nMode 1. Extruder%nExecutes all recipes of the single-block equivalent.%n%nMode 2. Bender%nExecutes all recipes of the single-block equivalent.%n%nMode 3. Forming Press%nExecutes all recipes of the single-block equivalent.%n%nIt can automatically rename items using a Mold ("name") renamed to the name that will be given to the item. It only works if there is no more than 1 stack of items in the bus with this form.%n%nThe mechanism has geometric dimensions of 5x3x3 length, width, height respectively. The required blocks, in addition to the controller, are Muffler Hatch, Maintenance Hatch, and Energy Hatch. Thus, without taking into account input/output buses and a Parallel Receiver, 41 structural blocks of PBE Casing are required for construction.
+
+impact.229.name=Titaniolum Ingot
+impact.229.desc=Alloy for multiblocks.
+
+impact.230.name=Birmabright Ingot
+impact.230.desc=Melting a new alloy in the blast furnace.%nUse nitrogen.
+
+impact.231.name=Gallium Dust
+impact.231.desc=Gallium dust can be obtained from zinc ore.
+
+impact.232.name=Multi Laser Engraver
+impact.232.desc=This machine is an equivalent of the Laser Engraver. It can work in parallel.%n%nExecutes all recipes of the single-block equivalent.%n%nIt can work with multiple programmed circuits and lenses located in different buses in the "Buses separated on" mode (switched with a screwdriver while holding the Shift key). The recipe is executed with the circuit/lens that is in the same bus as the material.%n%nImportant!%nDoes not ignore the "Needs Cleanroom" requirement.%n%nThe mechanism has geometric dimensions of 5x3x5 length, width, height respectively. The required blocks, in addition to the controller, are Maintenance Hatch and Energy Hatch. To build it, you need (excluding hatches) 36 Engraver Casing, 10 I-glass (1 white, 3 red, 3 green, 3 blue). The glass colors are fixed and cannot be changed.
+
+impact.233.name=Zamak Ingot
+impact.233.desc=Alloy for multiblocks.
+
+impact.234.name=Duraluminium Ingot
+impact.234.desc=Alloy for multiblocks.
+
+impact.235.name=Multi Assembling Machine
+impact.235.desc=The machine is a multiblock equivalent of Assembler, Circuit Assembler, and Component Assembler. It can work in parallel.%n%nIt has three operating modes. The modes are switched using a screwdriver.%n%nIt can work with multiple programmed circuits located in different buses in "Buses separated on" mode (switched with a screwdriver while holding the Shift key). The recipe is executed with the circuit that is in the same bus as the material.%n%nMode 1. Assembler%nExecutes all recipes of the single-block equivalent.%n%nMode 2. Circuit Assembler%nExecutes all recipes of the single-block equivalent.%n%nMode 3. Component Assembler%nExecutes all recipes of the single-block equivalent.%n%nImportant!%nDoes not ignore the "Needs Cleanroom" requirement.%n%nThe mechanism has geometric dimensions of 3x9x3 length, width, height respectively. The mandatory blocks, in addition to the controller, are the Maintenance Hatch and Energy Hatch. Therefore, excluding input, output buses, and Parallel Receiver, 59 Assembler Casings and 9 I-glass of any color are required for construction.
+
+impact.236.name=Multi Centrifuge
+impact.236.desc=The machine is an equivalent of Multiblock Centrifuge and Thermal Centrifuge. It can work in parallel.%n%nIt has two operating modes. The modes are switched using a screwdriver.%n%nMode 1. Centrifuge%nExecutes all recipes of the equivalent.%n%nMode 2. Thermal Centrifuge%nExecutes all recipes of the single-block equivalent.%n%nImportant!%nRecipes with capsules are performed by pouring the corresponding liquid into the Input Hatch.%n%nThe color of I-Glass in the structure does not matter.
+
+impact.237.name=TiBetaC Ingot
+impact.237.desc=Alloy for multi-blocks.
+
+impact.238.name=Inconel-792 Ingot
+impact.238.desc=Alloy for multi-blocks.
+
+impact.239.name=Good Circuit Board
+impact.239.desc=Substrates for new microchips.
+
+impact.240.name=Diode
+impact.240.desc=The Diode is a component for new microchips.
+
+impact.241.name=Good Electronic Circuit (MV)
+impact.241.desc=MV microchip.%n%nA more complex microchip.
+
+impact.242.name=LV Circuit Assembler
+impact.242.desc=This machine will allow me to produce more advanced microchips and also save some resources.
+
+impact.243.name=MV Energy Hatch
+impact.243.desc=Now it is possible to replace two LV energy hatches with one MV.%nTwo MV energy hatches will allow raising the voltage in the blast furnace to HV level.%n%nRemember that each energy hatch consumes up to 2 amperes.
+
+impact.244.name=Stainless Steel Ingot
+impact.244.desc=Smelt stainless steel in the blast furnace.%nThe blast furnace must be HV level one.
+
+impact.245.name=Oil Drilling Rig
+impact.245.desc=A structure for extracting gas or oil from the depths!%nPowered by MV voltage or higher.%nDon't forget to insert mining pipes.
+
+impact.246.name=Integrated Circuits (LV-HV)
+impact.246.desc=HV level 1 circuit.%n%nMV level 1 microchips that we have fabricated before are not suitable for its crafting.%nMV level 2 circuits are required. In turn, they require LV circuits level 2.
+
+impact.247.name=Multi Electrolyzer
+impact.247.desc=The machine is an analog of the Multiblock Electrolyzer. It can work in parallel.%n%nPerforms all the recipes of the analog.%n%nImportant!%nRecipes with capsules are performed by loading the corresponding liquid into the Input Hatch.%n%nThe color of the I-Glass in the structure does not matter.
+
+impact.248.name=MV Assembling Machine
+impact.248.desc=Craft an MV level assembler.
+
+impact.249.name=MV Electric Motor
+impact.249.desc=Manufacture an MV level electric motor.
+
+impact.250.name=MV Precision Laser Engraver
+impact.250.desc=A machine that processes items using a laser.
+
+impact.251.name=MV Circuit Assembler
+impact.251.desc=A microchip assembler will help assemble more advanced microchips.
+
+impact.252.name=Multiblock Farm
+impact.252.desc=An electric farm will help automate tree cultivation and produce products from them, including sticky resin.%n%nIt operates on MV voltage.%nWater and fertilizer need to be supplied.%nTo select a specific tree, you need to put the corresponding wood schematics in the input hatch along with the fertilizer.
+
+impact.253.name=Multi Wire Factory
+impact.253.desc=The machine is an analog of the Wiremill and Wire Assembler. It can work in parallel.%n%nIt has two operating modes. The modes are switched with a screwdriver.%n%nIt can work with multiple programmed circuits located in different buses in "Buses separated on" mode (switched with a screwdriver while holding the Shift key). The recipe is performed with the circuit that is in the same bus as the material.%n%nMode 1. Wiremill%nPerforms all recipes of the single-block analog.%n%nMode 2. Wire Assembler%nPerforms all recipes of the single-block analog.%n%nImportant!%nDoes not ignore the "Needs Cleanroom" requirement.%n%nThe color of I-Glass in the structure does not matter.
+
+impact.254.name=Multi Supply Production
+impact.254.desc=The machine is an analog of the Autoclave, Dust Washer, Ore Washing Plant, and Chemical Bath. It can work in parallel.%n%nIt has four operating modes. The modes are switched with a screwdriver.%n%nMode 1. Autoclave%nPerforms all recipes of the single-block analog.%n%nMode 2. Dust Washer%nPerforms all recipes of the single-block analog.%n%nMode 3. Ore Washer%nPerforms all recipes of the single-block analog.%n%nMode 4. Chemical Bath%nPerforms all recipes of the single-block analog.%n%nThe color of I-Glass in the structure does not matter.
+
+impact.255.name=MV Mixer
+impact.255.desc=Mixer for new tasks
+
+impact.256.name=MV Cutting Machine
+impact.256.desc=Craft a cutting machine.
+
+impact.257.name=Pyrolyse Oven
+impact.257.desc=The principle of operation of a pyrolysis oven is based on the thermal decomposition of organic substances into pyrolysis gases and solid residues.%n%nThe machine features a unique mechanic - substances are produced throughout the entire cycle of operation.%nGases are released sequentially from the sole Output Hatch. Wood charcoal is released from the Output Bus.%n%nDuring the recipe, the following are released:%n- At 7 seconds - Carbon Monoxide (72L)%n- At 14 seconds - Hydrogen Gas (288L)%n- At 21 seconds - Methane Gas (144L)%n- At 28 seconds - CO2 Gas (216L)%n- At 35 seconds - Wood Tar (1440L) and Charcoal (x5)
+
+impact.258.name=Kanthal Ingot
+impact.258.desc=Kanthal is a more heat-resistant material that can be used to make rings for a blast furnace.
+
+impact.259.name=Plastic Circuit Board
+impact.259.desc=These substrates help produce higher-level microchips.%nThere are two production methods: using sodium persulfate or iron chloride. The first method is cheaper in terms of energy and resources, but it requires more operations during production. The second method is more expensive but simpler.
+
+impact.260.name=SMD Components
+impact.260.desc=Microchips are becoming increasingly complex. Therefore, their components should also be more sophisticated.
+
+impact.261.name=Standard Circuits (LV-EV)
+impact.261.desc=This technology allows for the production of MV microchips without using LV microchips.%nWe also obtain the first EV microchip.
+
+impact.262.name=Maraging Steel 250 Ingot
+impact.262.desc=Alloy for multi-block structures.
+
+impact.263.name=Multi Utility Machine
+impact.263.desc=The machine is an equivalent of Compressor, Extractor, Canning Machine, Packager, Recycler, Forge Hammer, Lathe, and Polarizer. It can operate in parallel.%n%nIt has eight operating modes. The modes can be switched using a screwdriver.%n%nIt can work with multiple programmed circuits located in different buses in "Buses separated on" mode (switched with a screwdriver while holding the Shift key). The recipe is executed with the circuit that is in the same bus as the material.%n%nMode 1. Compressor%nExecutes all recipes of the single-block equivalent.%n%nMode 2. Extractor%nExecutes all recipes of the single-block equivalent.%n%nMode 3. Canning Machine%nExecutes all recipes of the single-block equivalent.%n%nMode 4. Packager%nExecutes all recipes of the single-block equivalent.%n%nMode 5. Recycler%nExecutes all recipes of the single-block equivalent.%n%nMode 6. Hammer%nExecutes all recipes of the single-block equivalent.%n%nMode 7. Lathe%nExecutes all recipes of the single-block equivalent.%n%nMode 8. Polarizer%nExecutes all recipes of the single-block equivalent.%n%nThe color of I-Glass in the structure does not matter.
+
+impact.264.name=Multi Brewmenter
+impact.264.desc=The machine is an analog of Brewery and Fermenter. It can work in parallel.%n%nIt has two modes of operation. The modes are switched with a screwdriver.%n%nMode 1: Brewery%nExecutes all recipes of a single block analog.%n%nMode 2: Fermenter%nExecutes all recipes of a single block analog.%n%nThe color of the I-Glass in the structure does not matter.
+
+impact.265.name=Grisium Ingot
+impact.265.desc=An alloy for multiblocks.
+
+impact.266.name=Talonite Ingot
+impact.266.desc=An alloy for multiblocks.
+
+impact.267.name=Multi Arc Furnace
+impact.267.desc=The machine is an analog of Arc Furnace, Alloy Smelter, and Drying Oven. It can work in parallel.%n%nIt has three modes of operation. The modes are switched with a screwdriver.%n%nIt can work with multiple molds, placed in different buses in "Buses separated on" mode (switched with a screwdriver while holding the Shift key). The recipe is executed with the mold that is in the same bus as the material.%n%nMode 1: Arc Furnace%nExecutes all recipes of a single block analog.%n%nMode 2: Alloy Smelter%nExecutes all recipes of a single block analog.%n%nMode 3: Drying Oven%nExecutes all recipes of a single block analog.
+
+impact.268.name=Basic 3D Printer
+impact.268.desc=The 3D Printer is a large assembler for complex devices.
+
+impact.269.name=Vacuum Freezer
+impact.269.desc=The Vacuum Freezer is designed to cool resources after processing in a blast furnace. It can also cool some liquids.
+
+impact.270.name=Titanium Ingot
+impact.270.desc=Titanium is the basis of the EV level.%nThe first titanium can be obtained from rutile.
+
+impact.271.name=HV Circuit Assembler
+impact.271.desc=Assembler for HV level wires.
+
+impact.272.name=Nitinol-60 Ingot
+impact.272.desc=Alloy for multiblocks.
+
+impact.273.name=Implosion Compressor
+impact.273.desc=This compressor is designed to compress resources using explosions. Therefore, you need to put dynamite in the input slot to perform recipes.
+
+impact.274.name=HV Chemical Reactor
+impact.274.desc=Craft the HV chemical reactor.
+
+impact.275.name=Tier 1 Rocket Chip Schematics
+impact.275.desc=This chip allows you to craft a Tier 1 rocket.%nAfter crafting the rocket, the schematics remain.%n%nFor crafting rockets of higher tiers, the corresponding schematics is used. Each schematics requires a specific collection of soil samples from planets and moons, making it essential to industrialize regolith mining.
+
+impact.276.name=Kovar Ingot
+impact.276.desc=Alloy for multiblocks.
+
+impact.277.name=Multi Cutting Machine
+impact.277.desc=The machine is an analog of the Cutting Machine and Saw Mill. It can work in parallel.%n%nIt has four operating modes. The modes are switched with a screwdriver.%n%nMode 1. Cutting Machine%nPerforms all recipes of the single-block analog.%n%nMode 2. Saw Mill: Planks & Sawdust%nPerforms all recipes of the primitive analog.%n%nMode 3. Saw Mill: Only Sawdust%nPerforms all recipes of the primitive analog.%n%nMode 4. Saw Mill: Wood Pulp & Sawdust%nPerforms all recipes of the primitive analog.%n%nImportant!%nDoes not ignore the "Needs Cleanroom" requirement.%n%nThe color of I-Glass in the structure does not matter.
+
+impact.278.name=Heavy Duty Plate Tier 1
+impact.278.desc=Rocket heat shield.%nA total of 32 are needed for the rocket.
+
+impact.279.name=Level 1 Rocket
+impact.279.desc=The first rocket!%n%nAllows you to fly to Earth's orbit and to the Moon.
+
+impact.280.name=MV Wire Assembling Machine
+impact.280.desc=Wire assembler for new recipes.
+
+impact.281.name=Electric Water Drilling Rig
+impact.281.desc=This machine is designed to pump water from underground sources using electricity.%n%nThe machine pumps water from the bedrock using electricity, the pump rate depends on the biome in which the controller is located, and the Energy Hatch and Output Hatch tier.%n%nWhen installed in an ocean biome, saltwater is pumped out.%n%nWater generation coefficient = h. The coefficient is changed using the levels of the Energy Hatch and Output Hatch.%n%nBiome coefficient = b. The coefficient is changed depending on the biome in which the controller is located:%n%n- Ocean, River: b = 1000 L/s%n- Swampland: b = 800 L/s%n- Jungle: b = 350 L/s%n- Snow, Iceland: b = 300 L/s%n- Plains, Forest: b = 250 L/s%n- Taiga: b = 175 L/s%n- Beach: b = 170 L/s%n- Other: b = 100 L/s
+
+impact.282.name=HV Wire Assembling Machine
+impact.282.desc=It's time to craft the HV Wire Assembling Machine.
+
+impact.283.name=Nichrome Ingot
+impact.283.desc=An alloy for higher temperatures.
+
+impact.284.name=Space Gear
+impact.284.desc=The Oxygen Gear is required for extravehicular activity.%n%nIf a jetpack is not available, the Parachute is necessary for a safe landing.%n%nThe Frequency Module is required to hear sounds.
+
+impact.285.name=PTFE
+impact.285.desc=PTFE (also known as Teflon) will allow you to make chemically neutral casings for a large chemical reactor and more.
+
+impact.286.name=Large Chemical Reactor
+impact.286.desc=A large chemical reactor performs recipes of a single-block chemical reactor. But it is more convenient. Liquids must be loaded directly into liquid input hatches.
+
+impact.287.name=Dyes
+impact.287.desc=Dyes can be extracted from flowers.%n%nDyes are needed to craft an item that shows the structure of multiblocks.
+
+impact.288.name=Vibrant Alloy Ingot
+impact.288.desc=An alloy that is perfect for tools and more.
+
+impact.289.name=MV Electrolyzer
+impact.289.desc=Allows you to break down complex liquids and substances into components.
+
+impact.290.name=Neodymium Ingot
+impact.290.desc=Neodymium is a rare earth metal.%nIt is used to make strong magnets. %n%nCan be obtained in an LV centrifuge or an HV sifter from Rare Earth in small quantities.%nAlternatively, you can fly to the Moon, find a Bastnasite vein, and produce Neodymium on an industrial scale.
+
+impact.291.name=Indium dust
+impact.291.desc=Currently, indium is only available through one tech process.
+
+impact.292.name=Maraging Steel 300 Ingot
+impact.292.desc=An alloy for multiblocks.
+
+impact.293.name=Stellite Ingot
+impact.293.desc=An alloy for multiblocks.
+
+impact.294.name=Silicone Rubber
+impact.294.desc=Silicone rubber is a more technologically advanced material than rubber made from sticky resin.
+
+impact.295.name=EV Mixer
+impact.295.desc=The EV mixer is required for new alloys.
+
+impact.296.name=IV Component Assembler
+impact.296.desc=Machine for manufacturing IV components.
+
+impact.297.name=Freezer Solidifier
+impact.297.desc=This cooler is used to obtain ingots from molten metal from the Blast Smelter.%n%nThe output fluid hatch from the Blast Smelter can be connected to the input hatch of the Freezer Solidifier.
+
+impact.298.name=Blast Smelter
+impact.298.desc=This smelting furnace allows producing different alloyed metals.%n%nIt can have multiple input hatches. Each one can contain its own programmed circuit.%n%nThe rings must provide the necessary temperature for the recipe.%n%nThe molten metal needs to be cooled.
+
+impact.299.name=Matrix Particles
+impact.299.desc=PARAMETRIC DIFFUSER%n%nThis machine is used to generate a beam of unstable matrix particles. Low gravity is required.%n%nIn the Input Bus next to the controller, you need to place any exquisite gem.%nThe beam strength depends on the Energy hatch level: (tier - 3) * random(200).%nThe higher the beam strength, the faster particles accumulate in the next machine - Matrix Particles Stabilizer.%nThe distance to the Matrix Particles Stabilizer should not exceed 30 blocks.%nThe beam should be directed into the I-glass from the left side of the Matrix Particles Stabilizer. The beam does not cause damage.%n%n%nMATRIX PARTICLES STABILIZER%n%nThis machine is used to stabilize the beam of unstable matrix particles. Low gravity is required.%n%nThe beam of unstable particles from the Parametric Diffuser should enter the I-Glass from the left, and the beam of stable particles for the Matrix Particles Containment comes out from the right.%nThe distance to the Parametric Diffuser and Matrix Particles Containment should not exceed 30 blocks.%nIt can accumulate up to 100,000 stable particles. It outputs 1,000 particles per second.%nBeams and lightning do not cause damage.%nIt consumes 1,920 EU/t of energy.%n%n%nMATRIX PARTICLES CONTAINMENT%n%nThis machine fills special containers with stable matrix particles. Low gravity is required.%n%nThe beam of stable particles from the Matrix Particles Stabilizer should enter the I-Glass from the left.%nThe distance to the Matrix Particles Stabilizer should not exceed 30 blocks.%nIt can accumulate up to 100,000 stable particles. It fills 8 containers (Empty Portable Cell with Matrix Particles) per second, each containing 1,000 particles.%nThe beam does not cause damage.%nIt consumes 1,920 EU/t of energy.
+
+impact.300.name=Heavy Duty Plate Tier 2
+impact.300.desc=To create level 2 heat shield plates, meteoric iron is required.%n%nIt can be mined on the Moon.
+
+impact.301.name=Multi Extradification
+impact.301.desc=The machine is an analog of the Fluid Extractor, Fluid Solidifier, and Fluid Heater. It can work in parallel.%n%nIt has three operating modes. The modes can be switched with a screwdriver.%n%nMode 1. Fluid Extractor%nPerforms all the recipes of the single-block analog.%n%nMode 2. Fluid Solidifier%nPerforms all the recipes of the single-block analog.%n%nMode 3. Fluid Heater%nPerforms all the recipes of the single-block analog.%n%nThe color of I-Glass in the structure does not matter.
+
+impact.302.name=Multi Maceration Stack
+impact.302.desc=The machine is an analog of the Macerator. It can work in parallel.%n%nPerforms all the recipes of the single-block analog.
+
+impact.303.name=EV Wire Assembling Machine
+impact.303.desc=Craft an EV level Wire Assembling Machine.
+
+impact.304.name=EV Energy Hatch
+impact.304.desc=Two EV Energy Hatch provides an IV multi-block with voltage.
+
+impact.305.name=Tier 2 Rocket
+impact.305.desc=This rocket opens the opportunity to visit Mars and its two moons.%n%nDon't forget to craft the thermal padding suit before the flight.%n%nThe Red Planet is rich in uranium ore.
+
+impact.306.name=Radon
+impact.306.desc=Finally, radon!%n%nThe demand for radon will gradually increase.
+
+impact.307.name=EV Emitter
+impact.307.desc=The emitter is what radon was needed for.
+
+impact.308.name=EV Circuit Assembler
+impact.308.desc=An assembler that helps transition to a new microchip manufacturing process.
+
+impact.309.name=Nanocomponents for nanochips
+impact.309.desc=This component requires an HV-level chemical reactor. The Large Chemical Reactor can be used.
+
+impact.310.name=Nano Circuits (HV-LuV)
+impact.310.desc=This line of microchips starts with HV and ends with LuV.
+
+impact.311.name=IV Energy Hatch
+impact.311.desc=Provides multiblocks with IV voltage. And two of them will supply LuV voltage.
+
+impact.312.name=IV Circuit Assembler
+impact.312.desc=Assembler for IV level microchips.
+
+impact.313.name=Quantum Circuits (EV-LuV)
+impact.313.desc=New technology for quantum microchips.
+
+impact.314.name=LuV Components
+impact.314.desc=LuV components are the foundation of many machines.%n%nBy default, LuV+ component recipes for the Assembly Line are hidden in NEI.%n%nTo make these recipes appear in NEI, you need to throw the crafted item on the ground and pick it up. After that, you will receive the corresponding achievement. Now its crafting will be displayed in NEI.%n%nIn creative mode (cheat!), you can throw and pick up the Debug Scanner item to open all recipes for the Assembly Line.
+
+impact.315.name=Mangalloy Ingot
+impact.315.desc=Alloy for multiblocks.
+
+impact.316.name=Tier 3 Rocket
+impact.316.desc=This rocket opens up the opportunity to visit the asteroid belt.%n%nDon't forget to make a Thermal Padding Suit before the flight.
+
+impact.317.name=Better Thermal Padding Suit
+impact.317.desc=The advanced version of the suit. However, its protection is insufficient for some special planets. To simplify crafting, you can disassemble the old version of the suit.
+
+impact.318.name=Advanced 3D Printer
+impact.318.desc=A more advanced version of the 3D printer.%n%nCannot execute recipes of its predecessor.
+
+impact.319.name=Multi Mixing Machine
+impact.319.desc=The machine is an analog of the Mixer. Can work in parallel.%n%nExecutes all recipes of the single-block analog.%n%nCan work with multiple programmed circuits located in different buses in "Buses separated on" mode (switched with a screwdriver while holding the Shift key). The recipe is executed with the circuit that is in the same bus as the material.%n%nImportant!%nRecipes with capsules are executed by loading the corresponding liquid into the Input Hatch.%n%nThe color of I-Glass in the structure does not matter.
+
+impact.320.name=Thermal Padding Suit
+impact.320.desc=Starting from tier 2 planets, protection against extreme temperatures is necessary.
+
+impact.321.name=1K Storage Cell
+impact.321.desc=These items are required for autocrafting ME systems.
+
+impact.322.name=Tier 4 Rocket
+impact.322.desc=T4 Rocket allows you to travel to Mercury and Venus.
+
+impact.323.name=Fusion Mark I
+impact.323.desc=The first Fusion Reactor.%nAllows material synthesis through nuclear fusion.%n%nUse the Hologram Projector for assembly.%nInstall LuV Input Hatch or LuV Machine Casing in the red marked areas.%nInstall LuV Output Hatch or LuV Machine Casing in the blue marked areas.%nInstall LuV Energy Hatch in the white marked areas.%n(Important to meet LuV tier requirements for these blocks)%n%nNo maintenance hatch is required.%n%nAfter connecting electricity, the energy accumulation process will begin, which can be monitored in the controller.%nMaximum accumulated energy with 16 LuV Energy Hatch is 160,000,000 units.%n%nUse a Soft Mallet to initiate the launch once the specified charge in the recipe is accumulated.%n%nIf the reactor's charge reaches zero, it will stop.%n%nFor each launch, it is necessary to accumulate the charge specified in the recipe.
+
+impact.324.name=Europium Ingot
+impact.324.desc=Europium is a material obtained through nuclear fusion.%n%nWide application is guaranteed.
+
+impact.325.name=ME Network Components
+impact.325.desc=These components will help create an ME network.
+
+impact.326.name=Parallelism Basics
+impact.326.desc=Parallelism is the execution of a single type of recipe multiple times in one cycle (with energy consumption proportional to the number of recipes executed).%n%nIn the game, there is a concept called Parallel Points (PP). PP represents the current level of parallelism, for example, 4 PP means that 4 identical recipes are executed simultaneously (recipe time).%n%nParallelism works through wireless communication.%n%n-------%n%nTo perform parallel recipes with multi-machines, you need to:%n%n1. Assemble a satellite (Space Satellite) with a Communication Transmitter block in orbit. One satellite is enough for all dimensions.%n%n2. Build a Communication Tower in any dimension within the range of the multi-machines (Coverage area - a 9x9 chunk square with the controller in the center).%n%n3. Within the range of the Communication Tower, construct a Parallel Super Computer with Parallel Transmitter blocks (on the left side of the controller) and Parallel Computer Racks (opposite the Parallel Transmitters on the right side). The Parallel Computer Racks must have Parallel CPUs inserted.%n%n4. Install a Parallel Receiver block in the multi-machines.%n%n5. Configure the satellite and tower to the same frequency using a laptop: click on the Communication Transmitter with the Laptop on the satellite, select the frequency, and press enter. Then, click on each Communication Receiver (4 in total) on top of the tower with the Laptop, select the same frequency, and press enter. The tower's controller at the bottom should show a connection to the satellite.%n%n6. Configure the tower and super computer to the same frequency using a laptop: click on the controllers of the tower and super computer with the Laptop, select the same frequency, and press enter.%n%n7. Connect the multi-machines to the super computer: right-click on the Parallel Receiver of the multi-machine, then right-click on the Parallel Transmitter of the super computer.
+
+impact.327.name=Parallel Supercomputer
+impact.327.desc=The supercomputer allows for parallel distribution across machines.%n%nThe computer stores parallel points (PP), which can be increased or spent.%nEach machine is limited by the number of parallels: 4, 16, 64, 256.%n%nThe computer structure can have a minimum of 3 blocks in length, and a maximum of 18.%n%nParallel Transmitter blocks should be installed on the wall, on the left side of the controller, starting from the second block.%nParallel Computer Rack blocks should be placed on the right side, opposite the Parallel Transmitter.%nParallel CPU items must be inserted into the slots of the Parallel Computer Rack.%n%nThe power consumption of the computer is calculated using the following formula:%nConsumption (EU/t) = 8,192 + Max PP.%nMax PP - the total number of PP from parallel processors installed in the computer (can be viewed in the controller).%n%nTo support 256 PP, you can use either 1 Parallel CPU T4 block for 256, or 64 Parallel CPU T1 blocks for 4.%n%nParallelism of 16 or higher reduces recipe execution time.
+
+impact.328.name=Communication Tower
+impact.328.desc=The Communication Tower provides wireless communication between the satellite in orbit and the multi-machines within the tower's range.%n%nAfter installing the space satellite, it is necessary to configure the frequency using a laptop.%n%nThe Communication Receiver is used for setting up the connection. The frequency must match the satellite's frequency. To establish the connection, all 4 receivers and the tower's controller need to be connected.%n%nCoverage area - a 9x9 chunk square with the controller in the center.%n%nMultiple towers can be connected to the same frequency - the satellite's frequency.%n%nThe tower does not require electrical power.
+
+impact.329.name=Space Satellite
+impact.329.desc=The Space Satellite allows wireless communication between machines on different planets.%n%nIt needs to be placed in Earth's orbit.%n%nIt does not require power to function.%n%nFor a single player, one satellite is sufficient for the entire game.%n%nIn the structure, it is necessary to incorporate the Communication Transmitter that needs to be linked to the receiver in the Communication Tower.
+
+impact.330.name=Crystal CPU
+impact.330.desc=These chips are the basis of crystal circuits fabrication.
+
+impact.331.name=Crystal Circuits (IV-UV)
+impact.331.desc=Crystal microchips up to UV.%n%nThe entire family of microchips is fabricated under low gravity.
+
+impact.332.name=Advanced SMD
+impact.332.desc=These components will reduce the cost of previous crafts and will also be needed in the fabrication of new microchips.
+
+impact.333.name=Drawer Controller
+impact.333.desc=Interacts with multiple connected storage units.%n%nYou can connect item pipes to the controller and interact with all the storage units that are located close to the controller and each other.%n%nThe key is used to hide items in the drawers. Simply click the key on the controller, and the items in the crates around the controller will be hidden. This can reduce the graphical load and may eliminate FPS drops caused by a large number of crates.
+
+impact.334.name=Fusion Mark II
+impact.334.desc=Tier 2 Fusion Reactor.%n%nAllows for obtaining new materials through fusion.%n%nMaximum accumulated energy with 16 ZPM Energy Hatches is 320,000,000 units.
+
+impact.335.name=Tier 5 Rocket
+impact.335.desc=T5 Rocket allows you to travel to planets of tier 5. For example, the satellites of Saturn and Uranus.
+
+impact.336.name=Molecular Assembler
+impact.336.desc=Executes crafting recipes when ordering items in the ME system.
+
+impact.337.name=ME Controller
+impact.337.desc=Allows distributing channels for the ME system.%nEach side of the controller can distribute up to 32 channels.
+
+impact.338.name=ME Point-to-Point Tunnel
+impact.338.desc=With this tunnel, you can transmit channels from the ME controller.%n%nME tunnel can also be converted into a liquid tunnel or an electricity distributor by clicking on its plane with a liquid capsule or wire. Electricity loss is 5 percent.
+
+impact.339.name=Wireless ME Terminal
+impact.339.desc=With these items, you can access the ME system just like through a terminal.%n%nWireless booster helps increase the range of the wireless access point.%nThe more boosters, the further the range and the higher the energy consumption.%n%nWireless terminal needs to be registered in the security terminal.
+
+impact.340.name=Stemcells
+impact.340.desc=Stem cells are necessary for producing components of future microchips.%n%nYou can sterilize the growth medium in the fluid heater.
+
+impact.341.name=Neuro Processing Unit
+impact.341.desc=Neuroprocessor for organic microchips.
+
+impact.342.name=Wetware Circuits (LuV-UV)
+impact.342.desc=Organic microchips up to UV.%n%nThe entire family of microchips is fabricated under low gravity.%n%nUHV microchips from this family are manufactured in a more complex way by the assembly line.
+
+impact.343.name=UV Components
+impact.343.desc=UV components.
+
+impact.344.name=Fusion Mark III
+impact.344.desc=Tier 3 Fusion Reactor.%n%nAllows production new materials through nuclear fusion.%n%nMaximum accumulated energy with 16 UV Energy Hatches is 640,000,000 units.
+
+impact.345.name=Tier 6 Rocket
+impact.345.desc=Now Proteus and Triton are available for flight.
+
+impact.346.name=Biocells
+impact.346.desc=Grown living cells are needed for bioprocessors.
+
+impact.347.name=Raw Advanced Crystal Chip
+impact.347.desc=Improved crystal chip.
+
+impact.348.name=Bioware Circuits (ZPM-UV)
+impact.348.desc=ZPM and UV tier biocircuits are manufactured under low gravity.%n%nUHV and UEV biocircuits from this family are manufactured in the Assembly Line using a more intricate method.%n%n
+
+impact.349.name=Alien Organic Dust
+impact.349.desc=Organic matter from the planet Barnarda C - the basis for alien chemistry.
+
+impact.350.name=Tesseract
+impact.350.desc=Tesseract allows obtaining the first alien organic matter (Alien Organic Dust) and some rare materials (americium, etc.) in large quantities.%n%nHyper fuel and a lot of energy are consumed in the process of creating materials.%nDepending on the type of hyper fuel, different materials are produced.%n%n2 Energy Hatch are required for power.
+
+impact.351.name=Bioware Circuits (UHV-UEV)
+impact.351.desc=Biocircuits up to UEV tier.
+
+impact.352.name=Wireless Connector
+impact.352.desc=Device used to transmit ME system channels at a distance, even through walls.
+
+impact.353.name=Tier 7 Rocket
+impact.353.desc=Now you can travel to the Kuiper Belt, Haumea, Pluto, and Makemake.
+
+impact.354.name=Pico Circuit (UMV)
+impact.354.desc=UMV voltage microchip.
+
+impact.355.name=Quantum Circuit (UXV)
+impact.355.desc=UXV voltage microchip.
+
+impact.356.name=Teleporter
+impact.356.desc=This block replaces the Stargate.%n%nCoordinates are entered in the menu.%n%nTo activate, you need:%n%n- Power it with electricity. Buffer capacity: 100,000,000 EU. Minimum energy cost for teleportation: 2048 EU.%n%n- Provide a redstone signal.%n%n- Approach no further than 3 blocks to the flickering side of the teleporter.%n%nDon't forget to plan for your return.
+
+impact.357.name=LV Distillery
+impact.357.desc=Machine for obtaining individual components from liquid by evaporation and collecting distillate.
+
+impact.358.name=Lubricant
+impact.358.desc=Lubricant for various mechanisms and technological processes.
+
+impact.359.name=High Pressure Coal Boiler
+impact.359.desc=Improved version of the Small Coal Boiler.%nProduces 300 L/s of steam.
+
+impact.360.name=High Pressure Solar Boiler
+impact.360.desc=This is an upgraded version of the Simple Solar Boiler.%nWhen heated, the high-pressure solar boiler has a steam production of 360 L/s.
+
+impact.361.name=High Pressure Furnace
+impact.361.desc=This is an upgraded version of the Steam Furnace.
+
+impact.362.name=High Pressure Extractor
+impact.362.desc=This is an upgraded version of the Steam Extractor.
+
+impact.363.name=High Pressure Macerator
+impact.363.desc=This is an upgraded version of the Steam Macerator.
+
+impact.364.name=High Pressure Forge Hammer
+impact.364.desc=This is an upgraded version of the Steam Forge Hammer.
+
+impact.365.name=High Pressure Compressor
+impact.365.desc=This is an upgraded version of the Steam Compressor.
+
+impact.366.name=High Pressure Alloy Smelter
+impact.366.desc=This is an upgraded version of the Steam Alloy Smelter.
+
+impact.367.name=LV Electrolyzer
+impact.367.desc=A device used for decomposing substances using electricity.
+
+impact.368.name=Oxygen
+impact.368.desc=Oxygen can be obtained through various methods, such as decomposing substances in an Electrolyzer or separating oxygen and nitrogen from air in a Centrifuge.
+
+impact.369.name=LV Centrifuge
+impact.369.desc=A device that separates substances using centrifugal force.
+
+impact.370.name=LV Mixer
+impact.370.desc=A machine used for mixing.
+
+impact.371.name=ULV Portable Tank
+impact.371.desc=ULV Portable Tank is a small-volume storage for liquids or gases.%nIt can be removed with a wrench. After removal, it retains the liquid inside.%nOtherwise, it is similar to the Super Tank.
+
+impact.372.name=ULV Super Tank
+impact.372.desc=The Super Tank is a storage for liquids and gases.%n%nHas options:%n- automatic unloading,%n- partial or complete destruction of contents,%n- storing of specific liquid or gas; in this case, no other liquid will be loaded (even if the tank is empty).%n%nConvenient to use for accumulating steam.
+
+impact.373.name=Red Alloy Cable
+impact.373.desc=Lossless cable.%n%nUsually, all cables have electricity losses.%nThis electrical cable conducts ULV voltage (8 eu/t) without losses.%n%nDo not use it for higher voltage - it will burn out.%n%nAlso, consider the amount of amps that can pass through the cable.%nFor example, if there are 2 energy sources in the network, but only 1 consumer, a single-core cable is sufficient (as the consumption is not more than 1 amp).%nIf there is 1 energy source and 2 consumers in the network, a single-core cable is still sufficient (as the energy source cannot output more than 1 amp).%nBut if there are 2 energy sources and 2 (or more) consumers in the network, a 2-core cable is required.%nSo, calculate the maximum possible amount of amps in the network and choose the corresponding cable.%n
+
+impact.374.name=LV Canning Machine
+impact.374.desc=A machine for filling containers with items.%nCan also be used for emptying these containers.
+
+impact.375.name=Soldering Alloy
+impact.375.desc=Soldering alloy for soldering.
+
+impact.376.name=Antimony Dust
+impact.376.desc=Extract antimony from stibnite ore, which can be found in tetrahedrite veins.
+
+impact.377.name=Hologram Projector
+impact.377.desc=To facilitate the construction of multi-block structures, use this hologram projector.%nHint: Dyes for crafting can be obtained from flowers.%n%nInstruction:%n%nTake the projector in your hand and right-click on the multi-block structure controller.%nA hologram will appear and disappear after a short period of time.%nIf you need to remove the hologram earlier, Right Click the projector on a different block.%n%nTip: Other blocks should not obstruct the hologram, otherwise you won't see the entire structure. So, avoid placing the controller on the ground right away. Maybe you also need to build something below.
+
+impact.378.name=LV Autoclave
+impact.378.desc=A machine for growing crystals and more.
+
+impact.379.name=Quartzite
+impact.379.desc=Grow quartzite in the Autoclave.%n%nMethod 1:%n%nFind quartzite stone in the world. Mine it and obtain quartzite cobblestone.%nCrush it in a Macerator.%nWash the obtained dust.%nGrow quartzite from quartzite dust in the Autoclave with a high chance. The Autoclave should be provided with water.%n%nMethod 2:%n%nFind Greywacke stone in the world. Mine it.%nCrush it in a Macerator.%nThrow 8 dust into a Centrifuge. Obtain quartzite dust.%nGrow quartzite from quartzite dust in the Autoclave with a high chance. The Autoclave should be provided with water.%n%nMethod 3:%n%nCrush glass with a Hammer, obtaining glass dust.%nThrow it into a Centrifuge and obtain silicon dioxide dust.%nGrow quartzite from silicon dioxide dust in the Autoclave with a low chance (10 percent). The Autoclave should be provided with water.%nThis is the most time-consuming method, but it eliminates the need to search for a specific ore in the world.
+
+impact.380.name=Ore and Oil Prospector
+impact.380.desc=Geological scanning for all resources!%n%nTo see which ore or liquid is present in the nearby chunks, place the Ore and Oil Prospector in the world.%nTake 2 powder barrels in your hand.%nClick on the Prospector with the powder barrel on top. The explosive should be consumed, and the Prospector will start working. Wait for the process to complete.%n%nAttention! After placing the Prospector in the world, it is important to wait a little for the device to load. Otherwise, clicking the explosive won't activate the device, and it will be placed in the world. Trying to take back the explosive may cause it to explode.%n%nUse a screwdriver to select the Prospector's operating mode.
+
+impact.381.name=Nitrogen
+impact.381.desc=Nitrogen is needed for smelting in a blast furnace and for chemical reactions.
+
+impact.382.name=Voltage Upgrade
+impact.382.desc=Congratulations! You have mastered the first level of electricity! It's time to increase the voltage in the network.%n%nNow you can start mastering the MV level.%n%nNew technologies await you, providing benefits.
+
+impact.383.name=Aluminium Ingot
+impact.383.desc=Smelt aluminum in a blast furnace%nUse nitrogen.
+
+impact.384.name=LV Pump
+impact.384.desc=This pump is used for pumping liquids from the world.%nYou can power it by placing a battery in the pump slot.%nAlso, insert mining pipes into the pump.
+
+impact.385.name=Oil
+impact.385.desc=Produce oil using an LV Pump. Don't forget to place a reservoir to collect the oil.
+
+impact.386.name=LV Chemical Reactor
+impact.386.desc=Chemical reactions occur in this machine.
+
+impact.387.name=Polyethylene
+impact.387.desc=Make polyethylene through a series of chemical reactions.%n%nYou will likely also need hydrogen and oxygen.%n%nLiquid polyethylene is used in many crafts in an assembly machine.
+
+impact.388.name=Drilling Fluid
+impact.388.desc=Prepare the drilling fluid.
+
+impact.389.name=Light Fuel
+impact.389.desc=Light fuel is a good source of energy and an alternative to steam power.
+
+impact.390.name=LV Combustion Generator
+impact.390.desc=The internal combustion engine consumes liquid fuel and outputs electrical energy.%n%nAn excellent alternative to a steam turbine.
+
+impact.391.name=ULV Semifluid Generator
+impact.391.desc=This engine runs on creosote oil and outputs electrical energy.%n%nAn excellent alternative to a steam turbine.
+
+impact.392.name=ME System Provider
+impact.392.desc=The machine produces components of the ME network by consuming matrix particles.%n%nBy consuming matrix particles, it executes recipes that can be seen in NEI.%nMatrix particles are unloaded into the machine's chamber (Matrix Particles Chamber) from containers (Full Portable Cell with Matrix Particles).%nIt can accumulate up to 100,000 matrix particles.
+
+impact.393.name=MV Component Assembler
+impact.393.desc=This machine helps in assembling components for MV mechanisms.
+
+impact.394.name=LV Polarizer
+impact.394.desc=This machine magnetizes rods for electric motors.%n%nAlthough this LV level machine (32 eu/t) can be powered by ULV voltage (8 eu/t) and execute recipes.%nTo do this, it needs to be powered by ULV voltage, wait a few seconds for the internal buffer to charge.%nThen, magnetization can be performed on one item at a time, with a pause of a few seconds before the next recipe.%n%nIf there is not enough energy to execute the recipe, the machine will stop and stall. In this case, it is necessary to stop it with a Soft Mallet, wait for the internal buffer to charge, and start it again with the same tool.%n%nTo ensure continuous operation of the machine, it can be powered by multiple amperes of ULV voltage (2A, most likely will be sufficient) from multiple electric sources through an ULV Transformer. The transformer must be in step-up mode. Use a Soft Mallet to change the transformer's mode.
+
+impact.395.name=Glue
+impact.395.desc=Obtain glue in a centrifuge from sticky resin.
+
+impact.396.name=Large Bronze Boiler
+impact.396.desc=The large bronze boiler produces a large amount of steam (16,000 liters per second).%n%nTo maintain it, access (Right Click) the maintenance hatch and click in the center with tools: hammer, screwdriver, wire cutter, wrench, soft mallet, and soldering iron.%nIf you don't have a soldering iron, you can use the boiler without soldering iron maintenance.%nIn this case, the boiler will produce 10 percent less steam.%n%nIt needs to be constantly supplied with water.
+
+impact.397.name=HV Level!
+impact.397.desc=Congratulations! You have passed the MV level and approached HV electricity!%n%nThere is so much interesting stuff here!
+
+impact.398.name=HV Assembling Machine
+impact.398.desc=An assembly machine for HV level.
+
+impact.399.name=HV Component Assembler
+impact.399.desc=A machine that helps assemble components for HV mechanisms.
+
+impact.400.name=IV Electric Motor
+impact.400.desc=IV Motor is the foundation of components at this level.
+
+impact.401.name=Black Steel Ingot
+impact.401.desc=Melt this steel that contains many components.
+
+impact.402.name=Cleanroom
+impact.402.desc=A cleanroom (CR) is a closed space that maintains high air cleanliness, ensuring sterility.%n%nThe CR itself does not produce anything but allows recipes labeled "Needs Cleanroom" to be executed.%n%nThe size of the CR is determined by the scale of the available mechanisms, but is limited within the range of 3x3x3 to 15x15x15.%n%nTo maintain the sterility of the CR, it requires a small but stable standby consumption. During CR cleaning (from 0 to 100 percent), more energy is consumed than usual. The cleaning speed depends on the voltage tier of the energy hatch and the dimensions of the CR.%n%nTo start a recipe in machines inside the cleanroom, you need to wait for a complete cleaning (up to 100 percent).%nThe success rate of the craft operation with the "Needs Cleanroom" requirement directly depends on the cleanliness of the CR. Therefore, it is necessary to ensure that the CR operates without breakdowns.%n%nTo transmit electricity from an external source to the machines inside the CR, you need to use a Diode Cable, which is embedded in the CR wall. The side of the Diode Cable that is different from the others is the electricity output.%nDiode Cable can also be used to limit the transmitted amperage.
+
+impact.403.name=Jetpack
+impact.403.desc=The jetpack allows you to fly.%nIt runs on electricity. You can charge it in any LV single-block mechanism by placing it in the electrical slot.
+
+impact.404.name=HV Mixer
+impact.404.desc=A mixer for HV level.
+
+impact.405.name=Vanadiumsteel Ingot
+impact.405.desc=Steel based on vanadium.
+
+impact.406.name=ME Pattern Terminal
+impact.406.desc=This component is needed to create an ME network.
+
+impact.407.name=Fluix Dust
+impact.407.desc=Fluix dust is made from charged certus quartz crystal, which can be charged in an Electrolyzer.
+
+impact.408.name=Forming Press
+impact.408.desc=You need to create molds for the Forming Press machine.%n%nAt this stage, it is enough to create an LV Forming Press. But it might be better to make an HV Forming Press right away, which will be useful for more complex recipes in the future.
+
+impact.409.name=HV Precision Laser Engraver
+impact.409.desc=A device that uses a laser for processing items.
+
+impact.410.name=Kanthal Coil Block
+impact.410.desc=Installing Kanthal coils in a blast furnace allows for melting metals and alloys that require higher temperatures.
+
+impact.411.name=EV Electricity
+impact.411.desc=Congratulations! You are getting close to EV electricity!%n%nReady to start the atomic age?
+
+impact.412.name=Chlorine
+impact.412.desc=Chlorine can be produced from salt.
+
+impact.413.name=HSLA Ingot
+impact.413.desc=HSLA alloy is widely used for creating mechanisms.
+
+impact.414.name=Dynamite
+impact.414.desc=Dynamite is needed for the Implosion Compressor.%n%nIndustrial dynamite is more complex to manufacture, but it is more powerful. Therefore, its consumption in the Implosion Compressor is much lower.%n%nThe quest will be completed with any type of dynamite (press the Detect/Send button).
+
+impact.415.name=Nichrome Coil Block
+impact.415.desc=The next upgrade of the operating temperature of the Blast Furnace.
+
+impact.416.name=Compressed Alloy "SDHC-120"
+impact.416.desc=Compressed alloy is the main component of rocket assemblies.
+
+impact.417.name=HV Cutting Machine
+impact.417.desc=A cutting machine for HV level.
+
+impact.418.name=Large Steam Turbine
+impact.418.desc=A Large Steam Turbine is a multiblock generator that runs on steam. %n%nA rotor needs to be inserted into the controller. The amount of energy generated depends on the type and material of the rotor.%n%nTo extract electricity from the multiblock structure, a Dynamo Hatch must be installed (in the center of the back part, opposite the controller).%nIf the electricity generation exceeds what the Dynamo Hatch can extract, the turbine will explode.%n%nWhen the turbine is running, distilled water will appear in the Output Hatch.%n%nHint: A turbine with a "small" rotor type is approximately equivalent in efficiency to a single-block steam turbine of the corresponding electrical level. Therefore, it is beneficial to have at least a "normal" rotor.
+
+impact.419.name=HV Dynamo/Energy Hatch
+impact.419.desc=These hatches are part of multiblocks.%n%nHV Dynamo Hatch is used to output electricity from the multiblock generator.%n%nHV Energy Hatch allows powering HV multiblocks with electricity.%n%nTo craft the blocks, a capsule with a coolant cell is required.
+
+impact.420.name=Energetic Alloy Ingot
+impact.420.desc=Alloy for higher temperatures.
+
+impact.421.name=LPIC Wafer
+impact.421.desc=Components for electric machines.
+
+impact.422.name=Yellow Garnet Lens
+impact.422.desc=Lens made from a rare mineral called yellow garnet.
+
+impact.423.name=Launch Pad
+impact.423.desc=Location for rocket launch and refueling.%n%nBeware of lightning!
+
+impact.424.name=Rocket Fuel
+impact.424.desc=Fuel for rocket refueling.
+
+impact.425.name=Monazite Dust
+impact.425.desc=This material can be used to obtain helium.
+
+impact.426.name=Helium
+impact.426.desc=Inert gas, helium.
+
+impact.427.name=BT6 Ingot
+impact.427.desc=BT6 titanium alloy is ideal for EV-level machine casings.%n%nNote that BT6 alloy can be obtained in an Electric Blast Furnace or a Blast Smelter, and ingots can be cast in a Freezer Solidifier.
+
+impact.428.name=EV Electric Motor
+impact.428.desc=EV-level electric motor.
+
+impact.429.name=Tungstensteel Ingot
+impact.429.desc=Tungsten Steel.
+
+impact.430.name=EV Electrolyzer
+impact.430.desc=This electrolyzer can produce tungsten.
+
+impact.431.name=Tungstensteel Coil Block
+impact.431.desc=Heating coils made of tungsten steel.
+
+impact.432.name=EV Conveyor Module
+impact.432.desc=EV-level conveyor belt.
+
+impact.433.name=Coolant
+impact.433.desc=Cooling liquid.
+
+impact.434.name=Fluorine
+impact.434.desc=Fluorine gas, used for chemical compounds.
+
+impact.435.name=HSS-G Ingot
+impact.435.desc=Alloy for blast furnace rings.%nAnd more.
+
+impact.436.name=EV Assembling Machine
+impact.436.desc=EV-level assembling machine.
+
+impact.437.name=Tier 2 Rocket Chip Schematics
+impact.437.desc=This schematic allows you to craft a level 2 rocket.%nAfter the rocket is made, the schematics remain.
+
+impact.438.name=EV Cutting Machine
+impact.438.desc=Cutting machine for EV level.
+
+impact.439.name=Enriched uranium nuclear fuel
+impact.439.desc=Uranium can be mined on level 2 planets. Processing Uranium-238 will yield uranium-235 as a byproduct.
+
+impact.440.name=Glowstone doped wafer
+impact.440.desc=Silicon wafer with glowstone dust is much better than regular silicon.
+
+impact.441.name=Fuel Rod (Uranium)
+impact.441.desc=Uranium fuel rod is used for nuclear reactors.
+
+impact.442.name=Zirconium Ingot
+impact.442.desc=Zirconium is used in nuclear energy. It is also a component of some alloys.%n%nCan be obtained from cassiterite, which can be mined in a tin vein.
+
+impact.443.name=Nuclear Reactor I
+impact.443.desc=Tier 1 reactor is mainly used for producing spent nuclear fuel.%nHowever, it can also produce a small amount of steam.%n%nThe nuclear reactor has two operating modes:%n%n- Default Mode%nIn this mode, the reactor consumes water and generates steam. Regular fuel rods generate steam. MOX fuel rods generate superheated steam, but it is important for all the rods in the reactor to be MOX, otherwise the superheated steam mode won't be active.%n%n- Fast Decay Mode%nThis mode allows for rapid decay of nuclear fuel. Fuel decay occurs 5 times faster than in the default mode. In this mode, the reactor consumes coolant and produces hot coolant.%n%nA reactor explosion will occur if there is no water or coolant in the input slot during operation.%n%nThe position of the fuel rods can be adjusted using the up/down arrows.
+
+impact.444.name=Tungstencarbide Ingot
+impact.444.desc=Tungsten Alloy.
+
+impact.445.name=Plutonium 239 Ingot
+impact.445.desc=Plutonium 239 is the result of uranium decay in a nuclear reactor.
+
+impact.446.name=Standard Circuits (IV)
+impact.446.desc=This level IV microchip is the last in this line of technological processes.
+
+impact.447.name=Distillation Tower
+impact.447.desc=A distillation column will help extract all components from complex substances.
+
+impact.448.name=Large Gas Turbine
+impact.448.desc=A large gas turbine is a multi-block generator that operates on combustible gases and liquids.%n%nTo generate electricity, a rotor must be inserted into the controller. The amount of energy generated depends on the type and material of the rotor.%n%nTo extract electricity from the multi-block structure (at the center of the back part, opposite the controller), a Dynamo Hatch must be installed.%nIf the electricity production exceeds what the Dynamo Hatch can extract, the turbine will explode.
+
+impact.449.name=Hastelloy С-276 Ingot
+impact.449.desc=This alloy is the basis of level IV. %n%n
+
+impact.450.name=IV Electricity
+impact.450.desc=Hastelloy C-276 alloy is the gateway to level IV electricity. %n%nDid you pass the EV level too quickly? It only seems that way.
+
+impact.451.name=Combustion Engine Mk1
+impact.451.desc=The multi-block internal combustion engine consumes liquid fuel, lubricant, and produces electrical energy.%n%nThe Muffler Hatch needs to be placed in the middle of the top side, closer to the back wall (second to last block).%nLiquid input and maintenance hatch are located in the middle of the long sides of the casing.%n8 Engine Intake Casings make up the front wall (with the controller in the center). There should be air blocks in front of them.%nDynamo Hatch is located in the middle of the back wall.%n%nIt has two operating modes:%n%nFirst: produces 2048 eu/t.%nFuel efficiency - 100 percent.%n%nSecond: produces 6144 eu/t.%nFuel efficiency - 150 percent.%nThat is, 3 times the energy and 2 times the fuel compared to the first mode.%n%nTo switch to the second mode, additional oxygen at a rate of 40 L/s is required.%n%nIt takes time to reach maximum power.%n%n-----%nCombustion Engine Mk2 operates similarly, generating 4 times more electricity compared to Mk1.
+
+impact.452.name=Graphene Wire
+impact.452.desc=Graphene is a material based on graphite. %nThe complex production of graphene, taking into account its growing demand, requires uninterrupted production.
+
+impact.453.name=IV Wire Assembling Machine
+impact.453.desc=Assembler for level IV wires.
+
+impact.454.name=Tungsten Cable
+impact.454.desc=Tungsten cable can be made using tungsten foil, but it is more cost-effective to use Polyphenylene Sulfide Foil.
+
+impact.455.name=Polyphenylene Sulfide Foil
+impact.455.desc=Polymer foil for insulation of high-voltage wires.
+
+impact.456.name=IV Mixer
+impact.456.desc=Mixer for level IV.
+
+impact.457.name=HSS-E Ingot
+impact.457.desc=Alloy based on HSS-G.
+
+impact.458.name=HSS-G Coil Block
+impact.458.desc=Heating rings with a melting temperature up to 5400K.
+
+impact.459.name=Inconel-690 Ingot
+impact.459.desc=The nickel alloy Inconel 690 is characterized by excellent resistance to various aggressive aqueous environments and high-temperature conditions.
+
+impact.460.name=Nitinol Ingot
+impact.460.desc=Titanium-nickel alloy. This compound has the property of shape memory. In the game, this feature is conditional.
+
+impact.461.name=TNTZ Alloy Ingot
+impact.461.desc=An alloy based on Ti-Ni-Ta-Zr, hereinafter referred to as TNTZ alloy.
+
+impact.462.name=IV Assembling Machine
+impact.462.desc=Tier IV Assembler.
+
+impact.463.name=Iridium Ingot
+impact.463.desc=Iridium.
+
+impact.464.name=HPIC Wafer
+impact.464.desc=A plate from which components for high-tech devices are cut.
+
+impact.465.name=Tiny Niobium-Titanium Pipe
+impact.465.desc=A pipe made of niobium-titanium alloy.
+
+impact.466.name=Superconductor IV Wire
+impact.466.desc=These wires have the property of superconductivity and transmit IV electricity without losses.
+
+impact.467.name=Polybenzimidazole
+impact.467.desc=To obtain this compound, it is necessary to carry out numerous chemical reactions. It is used in many processes in small quantities, which makes it very useful.
+
+impact.468.name=IV Emitter
+impact.468.desc=Emitter of the IV tier.
+
+impact.469.name=QBit Wafer
+impact.469.desc=A plate from which components for microchips are fabricated.
+
+impact.470.name=More Advanced Circuit Board
+impact.470.desc=Substrate for quantum microchips.
+
+impact.471.name=Epoxy Resin Sheet
+impact.471.desc=A wide variety of chemical fluids are required for epoxy resin.
+
+impact.472.name=Heavy Duty Plate Tier 4
+impact.472.desc=Coating for a level 3 rocket.
+
+impact.473.name=Tier 3 Rocket Chip Schematics
+impact.473.desc=This blueprint allows you to craft a level 3 rocket. After the rocket is manufactured, the diagram remains.
+
+impact.474.name=Multi Siftaration Unit
+impact.474.desc=The machine is an analog of the Electromagnetic Separator and Sifting Machine. It can work in parallel.%n%nIt has two modes of operation. The modes are switched with a screwdriver.%n%nMode 1. Electromagnetic Separator%nPerforms all recipes of the single-block analog.%n%nMode 2. Sifter%nPerforms all recipes of the single-block analog.
+
+impact.475.name=Lapotronic Supercapacitor
+impact.475.desc=This mechanism allows storing a huge amount of energy.%n%nIt has no losses and does not require energy for operation.%n%nImportant!%nLoses charge when dismantling the controller block.%n%nCan have a height from 2 to 15 blocks (excluding the 2 blocks of the base).%n%nCompatible with the Energy Detector Cover. The controller block must be in the Normal Universal Storage mode.%n%nInside the shell made of special glass (I-Glass), there should be various energy storage blocks (Energium / Lapotronic / Mysterious Crystal Capacitor). It is possible to combine energy capacitors of different levels. The number of capacitors must be a multiple of 9, i.e. empty spaces are forbidden.%n%nBelow it, Energy and Dynamo Hatches of different levels can be placed.
+
+impact.476.name=Lapotronic Crystal
+impact.476.desc=Lapotronic crystal can accumulate electricity and serve as an EV battery.
+
+impact.477.name=Lapotronic Energy Orb
+impact.477.desc=The Lapotronic Orb serves as an IV-electricity storage.
+
+impact.478.name=Engraved Lapotron Chip
+impact.478.desc=Lapotronic chips.
+
+impact.479.name=IV Turbo Charger
+impact.479.desc=Fast charging of IV tools and equipment.
+
+impact.480.name=Huge Steam Turbine
+impact.480.desc=The mechanism is an improved version of large steam turbines.%n%nThe huge turbine consumes all the steam supplied to it, converting it into energy: 2 L/tick of regular or 1 L/tick of superheated steam is converted into 1 EU/t of electrical energy.%n%nThe turbine does not require a rotor in the controller.%n%nThe turbine does not explode if more steam is supplied than the Dynamo Hatch can output as energy.%n%nMalfunctions significantly reduce the efficiency of the turbine.%n%nEnergy cannot collected by lasers.
+
+impact.481.name=Nuclear Reactor II
+impact.481.desc=A nuclear reactor capable of producing enough steam to generate electricity using the Huge Steam Turbine.
+
+impact.482.name=Desh Ingot
+impact.482.desc=Desh can be mined on Mars.
+
+impact.483.name=Assembly Line
+impact.483.desc=The Assembly Line will help craft items and mechanisms starting from LuV level.%n%nTo craft items in the Assembly Line, it is necessary to scan the item specified in the recipe in the scanner and insert the obtained data flash drive into the Line.%n%nMultiple Data Sticks can be placed in the Data Access Hatch for recipe scanning.%nInstall it next to the controller.%n%nInstall the Energy Hatch in the upper middle layer.
+
+impact.484.name=LuV Electricity
+impact.484.desc=By building the Assembly Line, you can create items for the next LuV level.
+
+impact.485.name=Hang Glider
+impact.485.desc=The Hang Glider allows you to glide over short distances while gradually descending.%nHold it in your hand. Then, to deploy it in a jump, press the right mouse button.%nThe higher you are from the surface, the farther you will glide.
+
+impact.486.name=LV Energy Hatch
+impact.486.desc=The LV Energy Hatch allows you to power multiblocks with electricity.%nConsumes two amperes.
+
+impact.487.name=Long Distance Energy Pipeline Cable LV
+impact.487.desc=An LV cable designed for long distances.%n%nLong Distance Energy Pipeline LV blocks are required for input/output.%n%nAfter assembling the pipeline, it is necessary to fully load the chunks through which it passes. After that, it is sufficient to keep only the chunks where the input and output blocks are located loaded.%n%nThe pipeline cable transmits only 1 ampere.%n%nIn the future, it will be possible to manufacture higher voltage pipeline cables.
+
+impact.488.name=Long Distance Energy Pipeline LV
+impact.488.desc=Input/output block for Long Distance Energy Pipeline Cable LV%n%nThe blocks at both ends of the pipeline cable must be rotated towards the power source.%n%nAfter assembling the pipeline, it is necessary to fully load the chunks through which it passes. After that, it is sufficient to keep only the chunks where the input and output blocks are located loaded.%n%nThe pipeline cable transmits only 1 ampere.
+
+impact.489.name=Long Distance Fluid Pipeline
+impact.488.desc=Liquid pipeline for long-distance transportation.%n%nThe blocks at both ends of the main pipeline should be rotated towards the liquid intake.%n%nAfter assembling the pipeline, it is necessary to fully load the chunks it passes through. Then, it is sufficient to keep only the chunks that contain the input and output blocks loaded.
+
+impact.490.name=Long Distance Item Pipeline
+impact.490.desc=Item pipeline for long-distance transportation.%n%nThe blocks at both ends of the main pipeline should be rotated towards the item intake.%n%nAfter assembling the pipeline, it is necessary to fully load the chunks it passes through. Then, it is sufficient to keep only the chunks that contain the input and output blocks loaded.
+
+impact.491.name=Inventory Panel
+impact.491.desc=The inventory panel must be connected to the item conduit.%nAlso, an Remote Awareness Upgrade must be installed in the panel slot.%n%nThus, through the panel, you can view and interact with item storages connected to the item conduit.
+
+impact.492.name=LV Fluid Solidifier
+impact.492.desc=A machine used to create solid castings from liquids.
+
+impact.493.name=Silicon Dust
+impact.493.desc=Silicon dust.
+
+impact.494.name=Crate
+impact.494.desc=The Crate is an alternative to a chest.%n%nThere are different types of Crates with different numbers of storage slots. Each slot can hold one type of item. It can hold up to 64 stacks.%n%nThe Crate can be expanded using a storage upgrade.
+
+impact.495.name=MV Extruder
+impact.495.desc=With this machine, resources will be used much more efficiently.
+
+impact.496.name=Aerostate Platform
+impact.496.desc=An airship, balloon, etc. This multi-block structure represents a platform for transportation in the game.%n%nTo move, you will need gas, usually Natural Gas or Refinery Gas is used. Therefore, the platform must have an Input Hatch.%n%nTo register the platform, you will need an Aerostat.%n%nYou must open the platform interface with Shift+Right Click and enter the platform name.%n%nThen you can open the interface without Shift.%n%nThe platform interface displays a list of platforms within a 512-block radius.%n%nYou can travel to any of them if you have enough gas.%n%n%nImportant!%nThe platform needs to be loaded with a chunk loader!
+
+impact.497.name=LV Super Chest
+impact.497.desc=Super Chest. Stores a large quantity of items of the same type.
+
+impact.498.name=Elevator
+impact.498.desc=The elevator allows instant vertical transportation.%n%nThe maximum distance between elevators is 20 blocks.
+
+impact.499.name=Travel Anchor
+impact.499.desc=Allows teleportation over short distances.%n%nCan function as an elevator, allowing instant vertical transportation.%nThat is, if the blocks are positioned above each other, the cursor does not need to be aimed.
+
+impact.500.name=Electrical Steel Ingot
+impact.500.desc=Electrical Steel
+
+impact.501.name=Better Barrel
+impact.501.desc=The wooden barrel can store up to 64 stacks of items of the same type.%n%nThe barrel's capacity can be increased using "Storage Upgrades" and "Structural MK I".
+
+impact.502.name=Slightly Larger Chest
+impact.502.desc=This chest is the same as a regular wooden single chest, but it allows interaction with the contents without lifting the lid. That is, the block placed on top does not obstruct the view inside.
+
+impact.503.name=Logistics Pipes - Basic Mechanisms
+impact.503.desc=The Logistics Pipes mod allows you to build a system for managing items and their crafting.%n%nThe Logistics Power Juncion provides energy to the entire logistics network.%n%nThe Logistics Crafting Table allows crafting items on demand (or automatically) that are made in a regular crafting table.%nOne table can only perform the crafting of one item in the required quantity.%n%nThe Logistics Request Table allows interaction with the connected storage and ordering items for autocrafting.
+
+impact.504.name=Logistics Pipes
+impact.504.desc=The Unrouted Transport Pipe is necessary to connect all parts of the logistics network into a single system.%n%nThe Basic Logistics Pipe controls the direction of item movement in the system.%n%nAttention!%n%nTo ensure the proper functioning of all system components, the Basic Logistics Pipe must be installed at all pipe junctions and intersecions.%n%nThe Logistics Chassis has the properties of the Basic Logistics Pipe and has multiple slots for module installation.%n%nNumber of slots:%nMk1 - 2%nMk2 - 4%nMk3 - 8%nMk4 - 16%nMk5 - 32%n%nFor the proper functioning, the Logistics Chassis should only come into contact with one mechanism or storage.%n%nTo interact with the Logistics Chassis, press it with a Yeta wrench (Right Click).
+
+impact.505.name=Logistics Chassis Mk4
+impact.505.desc=Logistics Chassis Mk4 has 16 slots for modules.
+
+impact.506.name=Module Chipsets
+impact.506.desc=Chips and the Blank Module form the basis of logistics modules.
+
+impact.507.name=Provider Module
+impact.507.desc=Allows the system to request items from the storage to which the logistics chassis with this module is attached.%nMk1 - extracts up to 16 items at a time upon request.%nMk2 - extracts up to 64 items at a time upon request.%n%nNote: Mk2 does not significantly improve the performance of the logistics network compared to Mk1.
+
+impact.508.name=Active Supplier Module
+impact.508.desc=Allows the automatic supply of items to a mechanism or storage specified in the module.%nThe system must have access to the specified items.
+
+impact.509.name=MV Forming Press
+impact.509.desc=A machine for creating forms by extrusion.
+
+impact.510.name=Extractor Module
+impact.510.desc=Allows extracting specified items from a mechanism or storage to which a logistics chassis with this module is attached.%n%nThe Extraction Module Mk2 extracts items much faster.%nThe Extraction Module Mk3 extracts 64 items.
+
+impact.511.name=Crafting Module
+impact.511.desc=Allows for autocrafting.%n%nIn order to do this, all items required to perform the recipe as well as the final item must be specified in the module.%n%nWhen executing the recipe, it is possible to send additional items to another mechanism through a satellite pipe. To select the pipe, its ID (number) must be specified.%n%nThe Creation Module extracts 1 finished item from the mechanism.%nThe Creation Module Mk2 extracts 16 finished items.%nThe Creation Module Mk3 extracts 64 finished items.
+
+impact.512.name=Satellite Logistics Pipe
+impact.512.desc=When executing a recipe using the Creation Module, it is possible to send additional items to another mechanism through this auxiliary pipe. Its ID (number) must be assigned.
+
+impact.513.name=Multi-Tank
+impact.513.desc=The mechanism is designed to store up to 25 liquids in a large volumes.%n%nIt does not break and does not require power.%n%nTo interact with the ME network, you need to install an I/O Tank Hatch and connect an ME network cable to it or attach a fluid storage bus onto it.%nNot intended for use with an Input/Output Hatch.%n%nThe amount of stored liquid depends on the level of Tank Storage Blocks.%n%nYou can lock the liquid stored in the tank by placing a cell with that liquid in an empty slot in the controller. If you need to lock multiple liquids, you should specify them all in the view cell in the cell workbench and also place this cell in an empty slot of the controller.%n%nThe liquid disappears from the tank only when the controller is dismantled or if storage blocks of different types are placed.%n%nYou can enable the excess liquid voiding mode by clicking the controller block with a screwdriver.%n%nThe priority of the tank in the ME network can be adjusted by clicking the I/O Tank Hatch with a soldering iron. Holding Shift sets the priority to -100, without Shift sets it to +100.%n%nThe color of the I-Glass in the structure does not matter.
+
+impact.514.name=Single-Tank
+impact.514.desc=The mechanism is designed to store 1 liquid in a huge amount.%n%nIt does not break and does not require power. Input/Output Hatches are used for input/output of liquids.%nTo interact with the ME network, you need to install an I/O Tank Hatch and connect an ME network cable to it or attach a fluid storage bus onto it.%n%nThe amount of stored liquid depends on the level of Tank Storage Blocks.%n%nYou can lock the liquid stored in the tank by placing a cell with that liquid in an empty slot in the controller.%n%nThe liquid disappears from the tank only when the controller is dismantled or if storage blocks of different types are placed.%n%nYou can enable the excess liquid voiding mode by clicking the controller block with a screwdriver.%n%nThe priority of the tank in the ME network can be adjusted by clicking the I/O Tank Hatch with a soldering iron. Holding Shift sets the priority to -100, without Shift sets it to +100.%n%nThe color of the I-Glass in the structure does not matter.
+
+impact.515.name=NanoChestPlate
+impact.515.desc=The Improved Nanovest is an armor that allows:%n%n- recharging tools after use,%n%n- flying with a jetpack (Gravi Fly Key),%n%n- fast running (W + Boost Key),%n%n- hovering with gradual descent (Mode Switch Key + Space).
+
+impact.516.name=Energy Crystal
+impact.516.desc=The Energy Crystal can store electricity and serve as an HV battery.
+
+impact.517.name=Nano Armor
+impact.517.desc=This armor features:%n%n- night vision mode (ALT Key + Mode Switch Key),%n%n- protection against radiation and pollution,%n%n- hunger resistance,%n%n- fast running mode, including gliding on water and higher jumping.%n%n- protection from fall damage.%n%n- fire resistance.%n%n_______%n%n... Key - corresponding buttons assigned in the settings.
+
+impact.518.name=ME Chest
+impact.518.desc=The ME Chest is the first digital storage.%n%nYou need to place a storage cell in the internal slot.%n%nThe storage requires energy, which is supplied through an energy acceptor.%n%nIt is also used for complex crafting.%n%nWith a network tool, you can easily remove (Shift) items from the ME network. Right Click to view the energy consumption of the ME network.
+
+impact.519.name=Energy Acceptor (ME Network)
+impact.519.desc=Provides energy to the ME network.
+
+impact.520.name=ME Drive
+impact.520.desc=Stores up to 10 storage cells.
+
+impact.521.name=Lapotron
+impact.521.desc=The Lapotron is somewhat similar to a lapotron crystal and can be converted into one.%nUnlike the crystal, it cannot store energy.
+
+impact.522.name=Tiny Wormhole
+impact.522.desc=A mechanism that creates a tiny wormhole in space ("mole hole").%n%nAllows for obtaining certain rare materials (duranium, etc.) in large quantities.%n%nExecutes recipes that can be seen in NEI.%n%nRequires Enriched Naquadria and a lot of energy to obtain materials.
+
+impact.523.name=Barnarda C Wood Schematics
+impact.523.desc=This scheme helps grow Purple Oak from Barnarda C planet on a farm and obtain Alien Organic Dust.
+
+impact.524.name=Crystal SoC
+impact.524.desc=A component of an improved crystal chip.
+
+impact.525.name=IV Laser
+impact.525.desc=Electric energy can be transmitted not only through wires, but also through lasers.%n%nLaser has a much higher ampere throughput than wires.%n%nThe transmitting chain needs to be painted with an applicator or spray can in one color.%n%nNot all multiblocks can transmit energy through lasers.%n%nLaser Source (Output) Hatch - outputs energy.%nLaser Target (Input) Hatch receives energy.%nThe Laser Reflector rotates the laser.%nThe output side of the reflector can be rotated with a wrench.%nThe input side of the reflector can be adjusted with a screwdriver.%n%nThe mask is necessary to see lasers.%nCan be placed in Baubles slot.
+
+impact.526.name=Heavy Duty Plate Tier 6
+impact.526.desc=Coating for a level 6 rocket.
+
+impact.527.name=Ender Quarry Upgrades
+impact.527.desc=The World Hole Upgrade leaves a void instead of filling up mined blocks.%n%nThe Pump Upgrade extracts liquid from the working area.%n%nThe Silk Touch Upgrade mines blocks without breaking them.%n%nOther upgrades are not relevant.
+
+impact.528.name=Mythril Ingot
+impact.528.desc=A Mythril Ingot.
+
+impact.529.name=Extraterrestrial Heating Coil Block
+impact.529.desc=Heating coils made of enriched Meitnerium.
+
+impact.530.name=Electromagnetic Induction Furnace
+impact.530.desc=This machine is an improved version of the Electric Blast Furnace.%nIt can work in parallel.%n%nIt can work with multiple programmed circuits located in different buses in "Buses separated on" mode (switched with a screwdriver while holding the Shift key).%nThe recipe is executed with the circuit located in the same bus as the material.%n%nThe execution of the recipe is not dependent on the temperature requirement of the coil blocks.
+
+impact.531.name=Superconductor UEV Wire
+impact.531.desc=UEV-tier superconductor.
+
+impact.532.name=ME Quantum Ring
+impact.532.desc=By using two quantum rings, it is possible to combine 2 ME systems in different dimensions into one network.%n%nTo do this, 8 blocks of quantum ring must be placed around the Quantum Link Chamber, into which one of the quantum entangled singularities should be inserted. The second entangled singularity should be inserted into the Quantum Link Chamber of the second ring.%n%nBoth rings must be powered by energy from the ME network. Each ring consumes about 400 eu/t. ME cables should be connected to the middle (not corner) parts of the ring.%n%nThe combined network should provide energy to both rings.
+
+impact.533.name=UHV Components
+impact.533.desc=UHV Components.
+
+impact.534.name=Adamantium Ingot
+impact.534.desc=Adamantium Ingot.
+
+impact.535.name=Super Crystal Circuit Board
+impact.535.desc=Substrate.
+
+impact.536.name=Large HP Steam Turbine
+impact.536.desc=Large turbine operating on superheated steam.%n%nFunctions similarly to the Large Steam Turbine.%nSimplified, the turbine operating on superheated steam produces twice as much electricity compared to operating on regular steam with the same rotor and flow rate.%n%nThis turbine consumes superheated steam and outputs regular steam.%n%nThe maximum amount of electricity is achieved with the optimal flow rate.%nIf the flow rate deviates from the optimal value, the turbine's electricity generation decreases instead of stopping.%nThe greater the deviation from the optimal flow rate (either shortage or abundance), the lower the electricity generation.
+
+impact.537.name=Bio Processing Unit
+impact.537.desc=Processor for biomicrochips.
+
+impact.538.name=Quad Fuel Rod (Naquadah MOX)
+impact.538.desc=Enriched naquadah (MOX) fuel rods for nuclear reactor.
+
+impact.539.name=Oil Drilling Rig II
+impact.539.desc=Facility for extracting gas or oil from the depths!%n%nUnlike the Oil Drilling Rig I, it pumps resources from a 4x4 chunk area.%n%n_____%n%nThe Oil Drilling Rig III extracts from an 8x8 chunk area simultaneously.%n
+
+impact.540.name=HSS-S Ingot
+impact.540.desc=HSS-G based alloy.
+
+impact.541.name=GraviChestPlate
+impact.541.desc=This armor has additional features compared to the quantum armor.%n%nEnables:%n%n- Creative-mode flight (Gravi Fly Key),%n%n- Strong acceleration (W + Boost Key),%n%n- Levitation without descent (Mode Switch Key + Space).
+
+impact.542.name=Tier 7 Rocket Chip Schematics
+impact.542.desc=This blueprint allows you to craft a level 7 rocket.%nAfter scanning the rocket, the blueprint disappears.
+
+impact.543.name=Electrum Flux Coil Block
+impact.543.desc=Heating rings made of fluxed electrum.
+
+impact.544.name=UEV Field Generator
+impact.544.desc=UEV field generator.
+
+impact.545.name=Drill
+impact.545.desc=The electric handheld drill helps to mine stone, dirt, and other items just like a pickaxe, but with greater speed.%n%nThe higher the drill tier, the larger the volume and the faster it can mine at once:%n%nLV - 1,%nMV - 3x3x3,%nHV - 5x5x5,%nEV - 7x7x7,%nIV - 9x9x9.%n%nSwitch mining mode:%nShift + Right Click on any solid block.
+
+impact.546.name=Pikyonium64B Ingot
+impact.546.desc=An alloy used to manufacture UHV machine casings.
+
+impact.547.name=Dust Washer
+impact.547.desc=This machine washes impure dust without obtaining any by-products.%nWater input is required.%n%nThe quest will be counted upon crafting any ULV or LV washing machine.%n(Click the Detect/Send button).
+
+impact.548.name=Large Heat Exchanger
+impact.548.desc=A Large Heat Exchanger is a multi-block machine designed to produce steam or superheated steam from hot coolant (produced in a nuclear reactor) or lava.%n%nThe input for the hot coolant is at the center of the bottom side.%nThe output for the cooled coolant is at the center of the top side.%nThe input for distilled water can be any free block of the casing.%nThe output for steam or superheated steam can be any free block of the casing.%n%nNo power supply is required.%n%nThe heat exchanger will explode without the supply of distilled water.%n%nTime is needed for the heat exchanger to heat up and reach 100 percent efficiency.%n%nUse a liquid regulator to supply hot liquid.%n%nWhen supplying lava at a rate of up to 1000 L/t, normal steam will be produced in a ratio of 1:160.%nWhen supplying lava at a rate of 1000 L/t to 2000 L/t (max), superheated steam will be produced in a ratio of 1:80.%nWhen supplying hot coolant at a rate of up to 800 L/t, normal steam will be produced in a ratio of 1:400.%nWhen supplying hot coolant at a rate of 800 L/t to 1600 L/t (max), superheated steam will be produced in a ratio of 1:200.%n%nThe consumption of distilled water is 1:160 of the produced normal steam and 1:80 of the superheated steam.%n%nHint:%nLarge amounts of distilled water can be obtained from large steam turbines.%n%nThe production threshold of superheated steam can be reduced with a programmed circuit.%nHowever, the production efficiency of steam will be decreased.
+
+impact.549.name=Fusion Mark V
+impact.549.desc=Tier 5 Fusion Reactor.%nAllows for the creation of new materials through nuclear fusion.%nMaximum stored energy with 16 UEV Energy Hatches is 2,099,970,048 units.
+
+impact.550.name=Naquadah Alloy Ingot
+impact.550.desc=An alloy made from Naquadah.
+
+impact.551.name=Fusion Mark IV
+impact.551.desc=Tier 4 Fusion Reactor.%n%nAllows the production of new materials through nuclear fusion.%n%nMaximum stored energy with 16 UHV Energy Hatches is 1,280,000,000 units.
+
+impact.552.name=Shutter Module
+impact.552.desc=The Shutter Module is a valve for transport pipes and wires. Can be opened/closed with a redstone signal.%n%nLikewise, the Fluid Filter is installed on a fluid pipe and can be configured as a filter for a specific liquid.%nCan be opened/closed with a redstone signal.%n%nThese items can be configured using a screwdriver or through the menu (Shift + Right Click) after installation.
+
+impact.553.name=ME Level Maintainer
+impact.553.desc=This device provides autocraft in the ME network.%n%nYou need to connect it to the ME network and configure:%n%n- mark the desired item.%n%n- set the threshold of items upon which an automatic order will be made. Click the check box next to it.%n%n- set the batch size of items that will be ordered at the same time. Click the check box next to it.
+
+impact.554.name=Blue Steel Ingot
+impact.554.desc=Blue steel - suitable for tools.
+
+impact.555.name=Hastelloy N Ingot
+impact.555.desc=Nickel alloy.
+
+impact.556.name=Naquadah Ingot
+impact.556.desc=Smelt naquadah ingots.
+
+impact.557.name=Naquadah doped Wafer
+impact.557.desc=Naquadah wafers.%nHelps to perform certain recipes more efficiently.
+
+impact.558.name=Stargate Chevron Block
+impact.558.desc=Block of Stargate chevrons.
+
+impact.559.name=Portable Scanner
+impact.559.desc=Scanner that provides additional information about a mechanism.%n%nRight Click on a mechanism with the scanner.%n%nSome information is displayed in chat.%n%nFull information is shown when hovering the cursor over the scanner.
+
+impact.560.name=Infuscolium Ingot
+impact.560.desc=Infuscolium ingot.
+
+impact.561.name=Naquadria Ingot
+impact.561.desc=Naquadria ingot.
+
+impact.562.name=Advanced Pyrolyse Oven
+impact.562.desc=Works similarly to the Pyrolyse Oven, but with some differences.%n%nThe Advanced Pyrolyse Oven differs from the regular one in that it is parallel.%nThat is, depending on the Energy Hatch tier, it can perform multiple recipes simultaneously (LV - 2x, MV - 4x, HV - 6x ... Tier * 2).%n%nEnergy consumption is calculated using the formula:%neu/t = eu/t (recipe) * number of simultaneous recipes * Energy Hatch tier / 2
+
+impact.563.name=Paintbrush
+impact.563.desc=You can paint pipes, wires, mechanisms, elements of the electrical network and more.%n%nThe brush must be combined with paint. After the paint runs out, the brush can be reused.%n%nEnough for 60 paintings.
+
+impact.564.name=Small Energium Crystal (T1)
+impact.564.desc=An energy crystal that can store a large amount of energy.%n%nBy merging 4 crystals in a compressor, you can obtain a crystal of the next tier.
+
+impact.565.name=UV Energy Hatch
+impact.565.desc=Provides a multiblock with UV voltage.
+
+impact.566.name=Nether Star
+impact.566.desc=Nether Star - a star from a non-existent mythical dimension. Accessible through technology.
+
+impact.567.name=Antimatter Reactor
+impact.567.desc=A medium-power generator using antimatter.%n%nBy colliding hydrogen and antihydrogen from magnetic containers (Pods) and consuming gaseous nitrogen, it produces 4 L/t of nitrogen plasma and generates electrical power of 2,097,152 EU/t for 30 minutes.
+
+impact.568.name=Wireless Crafting Terminal
+impact.568.desc=The wireless crafting terminal allows for crafting like in a crafting table.%nTo start using it, it needs to be charged and registered in the security terminal.
+
+impact.569.name=Muffler Upgrade
+impact.569.desc=Right Click this upgrade on a noisy mechanism to disable its sound.
+
+impact.570.name=UEV Components
+impact.570.desc=UEV components.
+
+impact.571.name=Heavy Duty Plate Tier 7
+impact.571.desc=Coating for a level 7 rocket.
+
+impact.572.name=Advanced Detectors
+impact.572.desc=These detectors measure the liquid and energy level in the storage.%nThey emit a redstone signal based on the configured fill level.%nTo configure them, access the menu (Shift + Right Click).
+
+impact.573.name=Electric Prospector's Scanner
+impact.573.desc=A scanner that shows deposits of valuable resources (ores in all layers and liquids) and pollution level.%n%nNeeds to be charged.%n%nTo switch scanning mode, press Shift + Right Click in the air.%n%nTo scan the terrain, Right Click in the air.%n%nTo scan a chunk, Right Click on any block (information will be displayed in the chat).
+
+impact.574.name=QPIC Wafer
+impact.574.desc=Components made from americium plates.
+
+impact.575.name=Lapotronic Capacitor (UEV)
+impact.575.desc=Stores energy for the Lapotronic Supercapacitor.
+
+impact.576.name=Pico Wafer
+impact.576.desc=Components for high technology.
+
+impact.577.name=Europa Ice Dust
+impact.577.desc=Ice dust from Jupiter's moon Europa.
+
+impact.578.name=Compressed Ice Plate
+impact.578.desc=Used for rocket construction.%n
+
+impact.579.name=Research station
+impact.579.desc=The mechanism is used to discover recipes for high-level items (typically UHV+ tier).%n%nThe Data Stick must be placed in the Research Station Controller.%nThe item that needs to be studied to obtain the recipe goes in the Object Holder.%n%nThe Quantum Computer must provide the research station with the necessary computation per second to study the recipe.%nIf there are fewer computations than required, the research will not start, if there are more, it will be completed faster.%nThe Energy Hatch level does not affect the speed of research.%n%nThe research station is connected to the Quantum Computer via Optical Fiber Cable.%nIn the station, the cable is connected to the Optical Slave Connector, and in the computer, it is connected to the Optical Master Connector.%n%nOne transmitter can only be connected to one receiver.%nIf you need to connect multiple Quantum Computers to the station, you can connect them in series by installing receivers in them.%n%nTo work, the transmitter, receiver, and the cable connecting them must be colored the same.%nOptical Fiber Cables of different colors cannot be connected.%n%nImportant!%nDismantling the structure while it is in operation is prohibited to avoid an explosion!
+
+impact.580.name=Superconducting Coil Block
+impact.580.desc=Superconducting coil.
+
+impact.581.name=Passive Supplier Module
+impact.581.desc=The Passive Supplier Module, unlike the active supplier module, does not request specified items from the network, but simply acts as their destination with the highest priority.%n%nIn other words, the module only works with newly arrived items in the network.%nDoes not overload the network with constant requests.
+
+impact.582.name=ME Fluid Processing Pattern Terminal
+impact.582.desc=Allows you to set templates like the template terminal, but in a grid larger than 4x4. (The slider allows you to move to the bottom row).%n%nSuitable for complex recipes with liquids in the Assembly Line.
+
+impact.583.name=Spray Can
+impact.583.desc=Paint can.%n%nFill with paint in the Fluid Canner.%n%nCan be used to paint wires, mechanisms, ME network components, and more.
+
+impact.584.name=UHV Energy Hatch
+impact.584.desc=Provides UHV voltage to multiblocks.
+
+impact.585.name=MV Gas Turbine
+impact.585.desc=The gas turbine can generate electricity using purified gas obtained from the Oil Drilling Rig.
+
+impact.586.name=Heavy Duty Plate Tier 5
+impact.586.desc=Tier 5 rocket.
+
+impact.587.name=IC2 Stargate Power Unit
+impact.587.desc=The power unit should be placed below the base block of the stargate or under one of the lower rings.%n%nStores up to 50,000,000 energy units.%n%nMultiple power units may be required for interdimensional travel.
+
+impact.588.name=UHPIC Wafer
+impact.588.desc=A plate used to create components for high-tech devices.
+
+impact.589.name=K2P4 ChestPlate
+impact.589.desc=A vest with a larger charge capacity compared to the gravity chestplate.
+
+impact.590.name=Flotation Unit
+impact.590.desc=A mechanism designed for efficient processing of ore obtained from drilling rigs. Can operate in parallel.%n%nThe output of processed ore depends on the type of liquid used (water, mercury, etc.).
+
+impact.591.name=Pipes
+impact.591.desc=Pipes are used to transfer liquids.%n%nWooden pipes are cheap.%nTheir capacity is sufficient to transport water from a primitive water pump to the consumer.%n%nNot suitable for steam or hot liquids.%n%nYou can remove, connect or disconnect pipes with a wrench.%n%nIn pipes, liquid can flow from one end to the other against the flow.%nThis can greatly reduce the maximum flow rate of liquid through the pipe.%nTo prevent "splashing", you need to use a wrench to press Shift + RMB on the pipe outlet.%nThis will prevent the liquid from moving in the opposite direction.
+
+impact.592.name=Raw Mysterious Crystal Chip Parts
+impact.592.desc=A whole part can be grown from a raw chip shard using sterilized bio medium with a success rate of 90 percent.%nAlternatively, Mutagen can be used with a success rate of 60 percent.
+
+impact.593.name=Bronze Plated Blast Furnace
+impact.593.desc=Bronze Blast Furnace - an analogue of the Bricked Blast Furnace, but with a smelting speed 4 times faster.%n%nInstead of coal, compressed coal or compressed charcoal can be used.
+
+impact.594.name=Rail Assembler
+impact.594.desc=Multiblock rail assembler. Produces various rails using more economical recipes compared to crafting in a workbench.%n%nThe quest is optional, so you can simply check the completion mark and press the "Detect/Send" button. The quest will be counted.
+
+impact.595.name=Quantium Ingot
+impact.595.desc=A quantium ingot.
+
+impact.596.name=Electric Air Filter
+impact.596.desc=A mechanism designed to clean pollution from the area.%n%nCleans an area around itself with a size of 3 by 3 chunks.%n%nThe degree of cleaning depends on the level of the Muffler Hatch. It is not possible to combine Muffler Hatches of different levels.%n%nYou can place a Turbine Rotor in the controller to increase the cleaning. The increase depends on the size and material of the rotor. The rotor will eventually break.%n%nYou can place an Adsorption Filter in the Input Bus, which further increases the cleaning. The dirty filter returns through the Output Bus after 1 cycle of operation (10 seconds), and it can be cleaned afterwards.%n%nBlocks adjacent to the sides of the Air Filter Vent Casing and Muffler Hatch, as well as the Air Filter Turbine Casing from above, must be empty.%n%nThe maximum allowed level for the Muffler Hatch installation is equal to Energy Hatch level * 2.%n%nFor example, with an HV Energy Hatch (tier=3), the maximum level for the Muffler Hatch is LuV (tier=6).
+
+impact.597.name=Multi Smelter
+impact.597.desc=The Multiblock performs recipes of the furnace for several items at once.%n%nWith installed cupronickel rings, it smelts 8 items at once for LV voltage recipes.%nWith each higher tier of rings, the number of simultaneously smelted items doubles.%nMaximum of 128 items at once.%n%nStarting from the nakquadah tier, the rings reduce the energy consumption of the Multismelter by 2 times per tier.%n%nIncreasing the voltage tier reduces the recipe time by 2 times.
+
+impact.598.name=MV Electric Furnace
+impact.598.desc=The MV tier Electric Furnace.%n%nIt is neccessary for crafting Multi Smelter.
+
+impact.599.name=Space Elevator
+impact.599.desc=A mechanism that allows transportation from Earth (Overworld) to its orbit and back.%n%nYou need to build an elevator on Earth and in orbit, then connect the controllers using a laptop, and then activate the elevator.%n%nTo move the player with the elevator, press the transport button in the interface.%n%nConsumes 1,000,000 EU per teleportation, energy storage is provided by Energy hatches.
+
+impact.600.name=ZPM Electricity
+impact.600.desc=Once you have obtained the basic alloys, you can transition to ZPM level.
+
+impact.601.name=UHV Electricity
+impact.601.desc=Increasing the level to UHV.
+
+impact.602.name=Lapotronic Capacitor (LuV)
+impact.602.desc=Stores energy for the Lapotronic Supercapacitor.
+
+impact.603.name=Bed
+impact.603.desc=Allows you to skip the night.
+
+impact.604.name=Improved Item Filters
+impact.604.desc=Advanced item filter has twice as many settings as the basic filter.%n______%n%nThe existing item filter can be configured for a large number of items (up to 81).%n%nTo do this, press Shift + right-click with the filter on the chest containing the desired items. The list of items in the chest will be recorded on the filter.
+
+impact.605.name=Industrial Diamond
+impact.605.desc=Industrial Diamond can be made in a compressor.
+
+impact.606.name=Mysterious Energy Crystal Orb (UHV)
+impact.606.desc=Energy sphere for UHV voltage.
+
+impact.607.name=Data Bank
+impact.607.desc=The mechanism allows for storing a large number of Data Sticks containing Assembly Line recipes and supplying these recipes to them.%n%nData Sticks are stored in Data Access Hatches (Normal, Advanced, Automatable).%n%nThe data bank is connected to Assembly Lines using Optical Fibre Cables.%n%nIn the data bank, the cable is connected to the Data Bank Master Connector, and in the assembly line, it is connected to the Assembly Line Slave Connector.%n%nOne transmitter can only be connected to one receiver.%n%nFor the system to work, the transmitter, receiver, and the cable connecting them must be colored the same.%nDifferent colored optical fiber cables cannot be connected.%n%nThe data bank consumes 2,048 * (a * b + 1) EU/t for operation,%na>=1 - number of compartments with Data Sticks,%nb>=1 - number of transmitters.%n%nImportant!%nDisassembling the structure while it is operational is prohibited to avoid explosions!
+
+impact.608.name=Lapotronic Capacitor (UV)
+impact.608.desc=Stores energy for the Lapotronic Supercapacitor.
+
+impact.609.name=Auto Maintenance Hatch
+impact.609.desc=An automatic maintenance hatch for multiblocks.%n%nTo automatically repair a multiblock (including initial maintenance), the following items must be present in the hatch slots:%n- 4 Duct Tapes%n- 2 Lubricant Cells%n- 4 Steel Screws%n- 2 HV Circuits%n%nThis amount of items will be consumed during the repair.%n%nYou may set up a persistent supply of these items to the hatch.
+
+impact.610.name=Wind Generator
+impact.610.desc=Wind energy can be converted into electricity.%n%nA kinetic generator produces electricity from the kinetic energy generated by the kinetic wind generator through the rotation of the rotor.%n%nThe Windmeter is used to measure wind strength.%nWind strength depends on the height. The maximum wind strength is at a height of 130 blocks from the bedrock.%n%n1. Install the kinetic wind generator. The front side (facing you during installation) is the position of the rotor. The back side is the location for installing the kinetic generator.%n%n2. Insert the rotor into the wind generator slot. The space occupied by the rotor must be empty. If the wind force is not sufficient to rotate the rotor (compare the rotor specifications with the Windmeter data), it will not rotate.%n%n3. Install the kinetic generator behind the wind generator. The front side should be closely attached to the back side of the wind generator.%n%n4. To extract energy from the kinetic generator, place a transformer next to its back side. In some cases, wires can also extract electricity (including those connected to the side walls of the kinetic generator).%nPlease note that rain increases production by 20 percent and thunderstorms by 50 percent.
+
+impact.611.name=ASoC Wafer
+impact.611.desc=Chips for storage components and other upgrades.
+
+impact.612.name=Quad Fuel Rod (Naquadah)
+impact.612.desc=Fuel rods for nuclear reactors.
+
+impact.613.name=Quadruple Input Hatch
+impact.613.desc=A single Input Hatch can contain up to 4 fluids at once.%n%nCan be installed in multiblocks.
+
+impact.614.name=Meitnerium Dust
+impact.614.desc=This dust can be produced in a centrifuge from Mytryl Dust.
+
+impact.615.name=Stargate Controller
+impact.615.desc=The controller is required to operate the Stargate.%n%nThe controller must be facing the front of the Stargate, within 5 blocks of the bottom center of the ring, either at the same level or one block higher or lower.%n%nIf the controller is properly linked to the Stargate, the central button will be orange.%nIf it is gray, then the controller is too far from the Stargate or facing the wrong direction.%n%nIn the interface, you need to enter the address of the Stargate.%nYou can enter the address by clicking on the buttons on the circular grid or by typing letters on the keyboard.%nAfter entering the complete address, press the Enter key or click the orange button.%nIf the address is valid, the orange button will light up and the Stargate will begin dialing the address.%n%nYou can find out the gate address by right-clicking on the assembled ring.%nThe address consists of 8 characters. Do not include hyphens. The last character is the dimension identifier.%nIf both gates are in the same dimension, the last digit can be omitted.%n%nBy default, you can only enter 7 digits.%nTo be able to enter all 8 digits, you need to install the "Stargate Chevron Upgrade" enhancement.%nPress Shift + Right Click with the enhancement on the Stargate Base. Additional chevrons will appear on the ring.%n%nWhen opening the gate, the unstable event horizon may cause damage.%nIt is recommended to maintain a distance of at least 5 blocks from the front of the Stargate until the event horizon stabilizes.%n%nDisassembling the gate elements while in the open state will cause an explosion.
+
+impact.616.name=Black Plutonium Dust
+impact.616.desc=Dust of black plutonium.
+
+impact.617.name=Staff of Traveling
+impact.617.desc=The staff enables teleportation over short distances.%n%nPress Shift + Right Click in the desired direction.%n%nThe staff must be charged.%n%nCaution!%nPlayer may get stuck in a structure and suffocate during teleportation.
+
+impact.618.name=ME Security Terminal
+impact.618.desc=Allows players to configure access to the ME network and register wireless terminals.
+
+impact.619.name=PPIC Wafer
+impact.619.desc=Components for the UV tier.
+
+impact.620.name=Crowbar
+impact.620.desc=The tool is used to remove plates and various devices installed on sides of machines, pipes, and wires.%n%nRequires blue dye, which can be obtained from Lapis Ore.
+
+impact.621.name=QuickSort Module
+impact.621.desc=Different from the extractor module, which does not check for available destination slots, the quick sort module looks for an available destination slot before sending items.%n%nIt ignores the default route. This means that unsorted items will simply remain in place.%n%nExtracts in stacks, but only if the item is present in the storage.
+
+impact.622.name=Heavy Duty Plate Tier 4
+impact.622.desc=Coating for a level 4 rocket.
+
+impact.623.name=Industrial Pulverizer
+impact.623.desc=Multi-block 3x3x3 crusher.%n%nPowered by MV voltage.%n%nExecutes recipes from NEI.
+
+impact.624.name=ULV Assembler
+impact.624.desc=Assembly machine ULV voltage (8 eu/t).%n%nAllows crafting funnels, torches, and some other items using a more advantageous recipe.
+
+impact.625.name=Extreme Wetware Lifesupport Circuit Board
+impact.625.desc=Substrate for organic microchips.
+
+impact.626.name=Active Transformer
+impact.626.desc=Multiblock transformer that allows converting incoming electricity to any available tier.%n%nElectricity can also be transmitted via lasers.%n%nImportant!%nDo not dismantle the structure while it is operational to prevent explosions!
+
+impact.627.name=Wireless Charger
+impact.627.desc=Can wirelessly charge items from the Ender IO mod.%n(See the description of the Basic Capacitor Bank in the "Electromagnet" quest)
+
+impact.628.name=Americium Ingot
+impact.628.desc=Americium ingot can be produced from plasma generated through the fusion of chromium and lutetium.%n%nLutetium is obtained through the decay of thorium in a nuclear reactor.
+
+impact.629.name=FPIC Wafer
+impact.629.desc=Plates and components based on neutronium.%n
+
+impact.630.name=LV Component Assembler
+impact.630.desc=An electrical machine for producing components for machines.
+
+impact.631.name=LuV Energy Hatch
+impact.631.desc=Provides multiblocks with LuV voltage.
+
+impact.632.name=Hyper Generator
+impact.632.desc=Powerful generator fueled by hyper fuel (Hyper Fuel I, II, III).%n%nUp to 3 Input Hatches can be installed for 3 types of fuel.%n%nThe generator starts producing energy only when it reaches 100 percent efficiency (takes 20 seconds to ramp up).%n%nOutput power is 134,217,728 EU/t.%n%nQuantum Stuff appears in the center upon correct assembly of the structure.
+
+impact.633.name=UV Plasma Generator
+impact.633.desc=The generator generates electricity from plasma.
+
+impact.634.name=Dolly
+impact.634.desc=The Dolly allows you to transport filled Better Barrels (including upgrades).
+
+impact.635.name=Quad Fuel Rod (MOX Thorium)
+impact.635.desc=Once plutonium is available, MOX fuel can be made from thorium.
+
+impact.636.name=Dimensional Transceiver
+impact.636.desc=Transfers items, fluids, and energy wirelessly over any distance and between dimensions.
+
+impact.637.name=Liquid Naquadah Generator
+impact.637.desc=A powerful generator that runs on regular naquadah fuel (Light, Medium, Heavy Naquadah Fuel).%n%nUp to 3 Input Hatches can be installed for 3 types of fuel.%n%nThe generator starts producing energy only when it reaches 100 percent efficiency (takes 20 seconds to ramp up).%n%nOutput power is 524,288 EU/t.%n%nThe color of I-Glass in the structure does not matter.%n%nQuantum Stuff appears in the center when the structure is assembled correctly.%n%nElectricity can be extracted by placing multi-ampere LuV Dynamo Hatches.%nA total of 16A LuV voltage needs to be extracted.
+
+impact.638.name=Quantum Circuits (ZPM)
+impact.638.desc=Quantum ZPM microchips are manufactured under low gravity conditions (e.g., in orbit).
+
+impact.639.name=Color Applicator
+impact.639.desc=The applicator colors ME system cables and lasers.%n%nTo load paint balls, you need to place the applicator in an ME chest in the component storage slot. Then, access the chest (storage) and load the paint balls, which are made by painting matter balls.
+
+impact.640.name=Solid-Oxide Generator 1
+impact.640.desc=The mechanism is an alternative to a gas turbine. It consumes all types of fuel for a gas turbine (check NEI) and oxygen, producing energy as well as regular or superheated steam.%n%nThere are 3 tiers of solid oxide generators. They differ in their casing, the amount of consumed gases, output power, and type of steam (the first one produces regular steam, the next two produce superheated steam).%n%nThe generator starts producing steam only when it reaches 100 percent efficiency (takes 250 seconds to ramp up).%n%nTier 1 consumes 400 L/s of oxygen and produces 2048 EU/t (EV).%nTier 2 consumes 1200 L/s of oxygen and produces 8192 EU/t (IV).%nTier 3 consumes 2000 L/s of oxygen and produces 32768 EU/t (LuV).%n%nThe fuel consumption and steam production depend on the type of fuel and are calculated similar to a gas turbine, based on the specified electricity output.
+
+impact.641.name=Cosmic Neutronium Ingot
+impact.641.desc=A ingot of cosmic neutronium.
+
+impact.642.name=ME Fluid Terminal
+impact.642.desc=Allows you to monitor liquids in the ME network.%n%nYou can take liquids in a container directly from the terminal.
+
+impact.643.name=Energy Cluster (UV)
+impact.643.desc=An energy sphere for UV voltage.
+
+impact.644.name=Enriched Bacterial Sludge
+impact.644.desc=Enriched bacterial sludge can be obtained from bacterial sludge in the Brewing Machine.
+
+impact.645.name=Nonuple Input Hatch
+impact.645.desc=A single Input Hatch can hold up to 9 liquids simultaneously.%n%nIt can be installed in multiblocks.
+
+impact.646.name=Logistics HUD Glasses
+impact.646.desc=These glasses allow you to see some information about the presence of modules, items, and settings in logistics chassis without accessing their interfaces.
+
+impact.647.name=Crushed Neutronium Ore
+impact.647.desc=Now neutronium can be obtained from ore.
+
+impact.648.name=Fluid Discretizer
+impact.648.desc=Converts fluids available in the ME system into items (drops).%n%nEssential for the operation of the dual fluid interface with patterns that contain fluids.%n%nDoes not work if placed directly next to an ME controller. Connect it by ME cables.
+
+impact.649.name=LV Solar Panel
+impact.649.desc=The solar panel block differs from the flat panel in that it generates electricity on its own, without being installed on other mechanisms.%nIt also does not require surface cleaning.%n%nThere are several recipes for producing flat solar panels.%nThe more advanced the crafting, the fewer materials are required.
+
+impact.650.name=LV Battery Buffer
+impact.650.desc=A storage for batteries.%n%nThe maximum amount of amps that the Battery Buffer can accept for charging is equal to the number of batteries in the storage multiplied by two (x2).%n%nThe maximum amount of amps that the Battery Buffer can output is equal to the number of batteries in the storage.
+
+impact.651.name=Network Visualization Tool
+impact.651.desc=Right-click on the ME network to see the network layout and number of channels.%nRemove from the quick access panel to hide.%n%nShift + scroll switches modes.
+
+impact.652.name=Sawbench
+impact.652.desc=In this workbench, you can change the shape of blocks to give buildings an aesthetic appearance.
+
+impact.653.name=LV Steam Regulator
+impact.653.desc=The regulator for steam is crafted from a fluid regulator.%nIt is only suitable for steam and has a high flow capacity.%nIt can be used to regulate steam flow inside a large steam turbine.%n%nTo adjust, you can install it on a pipe and access the regulator menu by pressing Shift + Right-click on the side of the pipe where the regulator is installed.%nOr click on the corners of the regulator to adjust.
+
+impact.654.name=Infinity Catalyst Dust
+impact.654.desc=Dust of the infinity catalyst.
+
+impact.655.name=Perrox Polymer Ingot
+impact.655.desc=Perrox polymer is made through a series of chemical transformations from Barnarda C organics.
+
+impact.656.name=Quantum Ingot
+impact.656.desc=An alloy used to make UEV machine casings.
+
+impact.657.name=Advanced Electric Miner
+impact.657.desc=The advanced electric miner mines ore in the entire vein within the chunk it is located in.%n%nThe miner has a mining bonus. The mined ore is crushed (5 percent chance of crushing).%n%nA Drill Head is placed in the Drill Hatch.%n%nMiner Enrichment Units can be placed instead of any HSLA Machine Casing.%n%nUsing a Miner Enrichment Unit, the advanced miner increases ore output and performs the initial ore processing.%nThe Enrichment Unit performs the Flotation Unit recipes. Energy is totalled according to the recipe.%n%nExample for a recipe with 480 EU/t and a fluid consumption of 1000L:%nIf you have a level 3 Drill Head, it means that ore of the same type is mined x4, based on this:%nEnergy consumption = 4 * 480 = 1920 EU/t + miner's baseline consumption.%nFluid consumption = 4 * 1000 = 4000L.%n%nTime is not taken into account.%n%n%nOnly one miner can be present in a single chunk!
+
+impact.658.name=Enriched Naquadah Dust
+impact.658.desc=Enriched Naquadah Dust is obtained from spent Naquadah fuel rods.
+
+impact.659.name=Californium Ingot
+impact.659.desc=Californium can be obtained from spent MOX fuel rods.%n%nRequired for LuV tier.
+
+impact.660.name=Oil Cracking Unit
+impact.660.desc=Machine for refining petroleum products through cracking method.%nRequires appropriate power supply according to the recipe.
+
+impact.661.name=Lapotronic Capacitor (UHV)
+impact.661.desc=Stores energy for the Lapotronic Supercapacitor.
+
+impact.662.name=Stargate Ring Block
+impact.662.desc=The ring of a Stargate.
+
+impact.663.name=Crushed Meitnerium Ore
+impact.663.desc=Meitnerium can now be retrieved from ore.
+
+impact.664.name=ME Output Bus
+impact.664.desc=This output hatch, connected to the ME network, transfers crafted items directly into the ME system.
+
+impact.665.name=Regulate Digital Chest
+impact.665.desc=Chest with a large storage capacity for a single item, with adjustable capacity.%n%nAdjust using a screwdriver with right-click.%n%nPlease note that the chest has input and output buffers that can hold up to a stack of items.%n%nTherefore, the actual minimum capacity is 64+1+64=129 items.
+
+impact.666.name=Mod Based ItemSink Module
+impact.666.desc=Allows the system to move items from a specific mod into storage.
+
+impact.667.name=ME Dual Interface
+impact.667.desc=This Dual ME interface works for both items and fluids.%n%nIt can use a pattern that contains both items and fluids.%nTo do this, a Fluid Discretizer must be installed in the ME network.
+
+impact.668.name=Industrial Information Panel
+impact.668.desc=Data about a mechanism can be displayed on the information panel screen.%n%nTo do this, right-click the GregTech Sensor Kit on the controller.%nA card with the controller's coordinates will appear.%nInsert the card into the information panel.%nThe panel must be powered by a redstone signal (e.g., toggle a lever).%n%nTo increase the signal reception range, use the "Signal Amplification" upgrade.
+
+impact.669.name=Bacterial Sludge
+impact.669.desc=Bacterial sludge can be found on Mars.%n%nIt can also be obtained from Bacteria (see Bacteria fluid), which can be cultured in raw growth medium (see Raw Growth Medium fluid).
+
+impact.670.name=ZPM Energy Hatch
+impact.670.desc=Provides multiblocks with ZPM power.
+
+impact.671.name=Enriched Meitnerium Ingot
+impact.671.desc=An ingot of enriched meitnerium can be produced from plasma generated by neutronium and enriched tartarite fusion.%n%nLiquid enriched tartarite is obtained from enriched meitnerium dust.
+
+impact.672.name=EV Digital Transformer
+impact.672.desc=A customizable transformer.%n%nIt can handle up to 2048 EU/t (1A of EV voltage).%nThe amperage and output voltage can be adjusted.
+
+impact.673.name=Network Switch with QoS
+impact.673.desc=This device is used to redistribute computations from the Quantum Computer.%n%nIn this quest, it is the components for Data Bank, Quantum Computer, and Research Station.%nThese machines ensure the execution of recipes for the Assembly Line.
+
+impact.674.name=Naquadria doped Wafer
+impact.674.desc=A wafer from which components for high-tech devices are cut.
+
+impact.675.name=UEV Energy Hatch
+impact.675.desc=Provides UEV multiblocks with power.
+
+impact.676.name=Frame Part
+impact.676.desc=A component of a Stargate.
+
+impact.677.name=Oriharukon Ingot
+impact.677.desc=Oriharukon ore can be mined on Titan.
+
+impact.page.0.name=Primitive Age
+impact.page.0.desc=Working with wood. %nFirst tools.%nCobblestone and stone mining. Mill.%nBrick structures.%nIron, bronze.%nWater extraction.%nPrimitive miner.
+
+impact.page.1.name=Steam Age
+impact.page.1.desc=Mining of minerals. %nSteam machines.%nMetal processing.
+
+impact.page.2.name=First Electricity
+impact.page.2.desc=Electric ULV machines.%nSawmill.%nElectronic Circuit.%nElectric LV machines.%nElectric Blast Furnace.%nPyrolysis Oven.
+
+impact.page.3.name=Oil and Gas Age (MV)
+impact.page.3.desc=Boosting metal processing efficiency.%nOil and gas extraction.%nAuto-farm.%nLogistics Pipes based autocrafting.%nStainless steel.
+
+impact.page.4.name=Space Era (HV)
+impact.page.4.desc=Clean room.%n3D printer.%nVacuum Freezer.%nRocket T1.%nOrbit and Moon travel.
+
+impact.page.5.name=Nuclear Age (EV)
+impact.page.5.desc=New way of alloy production.%nRocket T2.%nNuclear Reactor T1.%nRadon.%nEpoxy resin.%nNew Electronic Circuits.
+
+impact.page.6.name=Multiblock Era (IV)
+impact.page.6.desc=Multiblocks.%n3D printer (4x4).%nBig battery.%nRocket T3.%nAssembly line.
+
+impact.page.7.name=Fusion Age (LuV)
+impact.page.7.desc=Parallelism.%nAdvanced multiblocks.%nRocket T4.%nNuclear Reactor T3.%nFusion Reactor Mk1.%nNaquadah Generator.%nTeleportation of fluids, items, and players.
+
+impact.page.8.name=Big Data (ZPM)
+impact.page.8.desc=Rocket T5.%nFusion Reactor Mk2.%nQuantum Computer.
+
+impact.page.9.name=Event Horizon (UV)
+impact.page.9.desc=Rocket T6.%nFusion Reactor Mk3.%nWormhole.%nHyper generator.
+
+impact.page.10.name=Barnarda Organics (UHV)
+impact.page.10.desc=Rocket T7.%nFusion Reactor Mk4.%nAntimatter Reactor.%nTesseract.
+
+impact.page.11.name=Stargate (Final)
+impact.page.11.desc=Fusion Reactor Mk5.%nStargate.%nTeleportation.%nFinal.

@@ -1,0 +1,40 @@
+{
+  "shapes": [
+    {
+      "name": "1x3",
+      "depth": -1,
+      "reticle": 12,
+      "mask": [
+        "OOOOO",
+        "OOXOO",
+        "OOXOO",
+        "OOXOO",
+        "OOOOO"
+      ]
+    },
+    {
+      "name": "3x3",
+      "depth": -1,
+      "reticle": 12,
+      "mask": [
+        "OOOOO",
+        "OXXXO",
+        "OXXXO",
+        "OXXXO",
+        "OOOOO"
+      ]
+    },
+    {
+      "name": "New Shape",
+      "depth": -1,
+      "reticle": 12,
+      "mask": [
+        "OOOOO",
+        "OXXXO",
+        "OXXXO",
+        "OXXXO",
+        "OOOOO"
+      ]
+    }
+  ]
+}
