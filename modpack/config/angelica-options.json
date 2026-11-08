@@ -34,7 +34,7 @@
     "cpu_render_ahead_limit": 3
   },
   "reducer": {
-    "enabled": false,
+    "enabled": true,
     "unfocused_fps_limit": 10,
     "unfocused_volume": 100,
     "minimized_volume": 100,
